@@ -48,5 +48,5 @@ This repository is maintained by the Engineering Office. If you have any request
 
 ## License
 
-[CC0](./LICENSE)
+WIP
 

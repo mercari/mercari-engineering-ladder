@@ -1,7 +1,7 @@
 "",Seek Continuous Improvement,"Go Bold, Fail Fast & Learn Early",Take Action & Responsibility,Focus on the Customer,Strive for Alignment,Foster Trust & Inclusion,Deliver with High Quality,Share to Empower,Be Strategic & Efficient
-L1,"Listens to suggestions from others and incorporates them into their everyday practices.
+MG1,"Listens to suggestions from others and incorporates them into their everyday practices.
 
-Learns new things relevant to their role, including, but not limited to, programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills and product development skills.","Understands that there are always multiple solutions for a given problem.
+Learns new things relevant to their role and applies them to their work, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills and product development skills.","Understands that there are always multiple solutions for a given problem.
 
 Asks for clarification when dealing with uncertainty.
 
@@ -13,9 +13,10 @@ Understands the status of each service using monitoring and observability tools.
 
 Reports on the progress of their work daily, and accurately.
 
-Tries to understand the reason why a bug occurs and also reads and understands post-mortem reports.","Understands the basic usage of the product and understands how tasks given to them have an effect on customers.
+Tries to understand the reason why a bug occurs and also reads and understands post-mortem reports.","Understands the basic usage of the product and how given tasks affect customers.
 
-Knows how to write code which collects business data, such as logging data and A/B tests.
+Knows how to write code considering data utilization. 
+Some examples are: logging data, A/B tests.
 
 Understands code that contains business logic with support from other engineers.","Explains their ideas and opinions to other engineers clearly and respectfully.
 
@@ -42,10 +43,10 @@ Understands the importance of sharing post-mortem information after an incident.
 Knows when and how to ask for help to eliminate blockers.
 
 Completes small, well-defined engineering tasks within a reasonable amount of time."
-L2,"**Investigates, discusses and frequently thinks about ways to improve their team;  proactively makes improvements.**
+MG2,"**Investigates, discusses and frequently thinks about ways to improve their team;  proactively makes improvements.**
 **Some examples are: reducing technical debt, task automation, workflows, and team practices.**
 
-Learns new things relevant to their role, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills, or product development skills.","**Thinks outside the box and is able to find different ways to solve the technical challenges of an ongoing feature development or of the legacy codebase.**
+Learns new things relevant to their role and applies them to their work, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills, or product development skills.","**Thinks outside the box and is able to find different ways to solve the technical challenges of an ongoing feature development or of the legacy codebase.**
 
 **Is able to list the pros and cons of multiple solutions and judge which one is the most suitable.**
 
@@ -57,9 +58,9 @@ Learns new things relevant to their role, including, but not limited to: program
 
 **Handles customer support requests, can be on call when necessary, follows incident handling procedures, and contributes to post-mortem reports.**
 
-**Considers both short-term and long-term solutions when fixing bugs.**","**Understands the value their team provides to customers and gives their team feedback about pros and cons of the user experience.**
+**Considers both short-term and long-term solutions when fixing bugs.**","**Understands the value their team provides to customers and gives their team feedback about the pros and cons of the user experience.**
 
-Knows how to write code which collects business data, such as logging data and A/B tests.
+Knows how to write code considering data utilization. Some examples are: logging data, A/B tests.
 
 Understands the code **of their assigned domain, can modify it, and understands how it relates to their assigned project.**
 
@@ -67,7 +68,7 @@ Understands the code **of their assigned domain, can modify it, and understands 
 
 Handles disagreements with proper consideration and respect towards those involved; is open to changing their mind.
 
-**Follows** the team's goals, the company's values, and the engineering principles, **helping move the team towards those goals**.","Understands **how to deliver** praise and **constructive** feedback.
+**Follows** the team's goals, the company's values, and the engineering principles, and **actively pushes the team towards them.**","Understands **how to deliver** praise and **constructive** feedback.
 
 **Seeks feedback actively from their teammates and manager;** uses feedback as a tool for growth.
 
@@ -90,14 +91,14 @@ Knows when and how to ask for help to eliminate blockers.
 **Is capable of prioritizing and breaking down engineering tasks within a team involving one or two people in the team; recognizes the amount of work required and raises alerts when necessary.**
 
 **Makes an effort to use a data-driven approach**."
-L3,"Investigates, discusses, and thinks about ways to improve their team **and other teams;** proactively makes improvements.
+MG3,"Investigates, discusses, and thinks about ways to improve their team **and other teams;** proactively makes improvements.
 Some examples are: reducing technical debt, task automatization, workflows, team practices, **writing code that is used across teams, sharing knowledge, or developing shared standards like a coding guide or a common process like a release train.**
 
-Learns new things relevant to their role, including, but not limited to, programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills, and product development skills.
+Learns new things relevant to their role and applies them to their work, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills, and product development skills.
 
 [Engineering Manager Skills]
 
-Learns management skills, such as communication skills, goal setting skills, how to conduct efficient 1on1s, and performance review frameworks. 
+Learns management skills, such as communication skills, goal setting skills, how to conduct efficient 1on1s, and performance review frameworks, and applies them to their work. 
 
 Encourages members to create personal growth OKRs and makes sure the team workload allows members to use some time for self-improvement (study groups, conferences, reading, etc).","Thinks outside the box and is able to **lead the implementation of completely new features with little or no guidance.**
 
@@ -200,9 +201,9 @@ Makes decisions based on trade-offs between requirements, schedules, and technic
 Prioritizes, and breaks down, their team development into smaller parts and tasks.
 
 Defines the resources necessary for the team to solve issues including outsourcing and hiring new members, thereby balancing the results and the costs to achieve the team’s goals."
-L4,"Investigates, discusses, and **frequently** thinks about ways to improve their team and other teams, **taking the lead to implement these improvements.**
+MG4,"Investigates, discusses, and **frequently** thinks about ways to improve their team and other teams, **taking the lead to implement these improvements.**
 
-Learns new things relevant to their role, including, but not limited to: **specialized domain skills, engineering architecture ability**, communication skills, project management skills, or product development skills.
+Learns new things relevant to their role and applies them to their work, including, but not limited to: **specialized domain skills, engineering architecture ability**, communication skills, project management skills, or product development skills.
 
 [Engineering Manager Skills]
 
@@ -230,7 +231,7 @@ Handles, or dispatches, customer support requests; can be on call when necessary
 
 Takes responsibility for technical incidents and is able to coordinate with stakeholders as a representative **across teams**.","**Uses overall business strategy to help make decisions and adjust the direction of their project.**
 
-**Starts discussions in and outside of the team to create solutions which solve problems; decides the technical specifications and schedule of the MVP (Minimum Viable Product).**
+**Starts discussions in and outside of the team to create solutions which solve problems; decides the technical specifications and schedule of the minimum viable product(MVP).**
 
 Replies to customer inquiries; handles customer inquiries as the team's task when fixable.
 
@@ -311,13 +312,13 @@ Prioritizes and breaks down **cross-team features** into smaller parts and tasks
 **Makes long-term team goals and a roadmap to illustrate the team’s strategy**.
 
 Defines the resources necessary for the team to solve issues including outsourcing and hiring new members, thereby balancing the results and the costs to achieve the team’s goals."
-L5,"Investigates, discusses, and frequently thinks about ways to **improve the company**; takes the lead in implementing these improvements.
+MG5,"Investigates, discusses, and frequently thinks about ways to **improve the company**; takes the lead in implementing these improvements.
 
-Learns new things relevant to their role, including, but not limited to: **highly-specialized technical fields or domain skills**, communication skills, project management skills, and product development skills.
+Learns new things relevant to their role and applies them to their work, including, but not limited to: **highly-specialized technical fields or domain skills**, communication skills, project management skills, and product development skills.
 
 [Engineering Manager Skills]
 
-Learns **upper-management skills, such as strategic planning, long-term goal setting, management of managers, and efficient coaching**. 
+Learns and applies **upper-management skills** to their work, **such as strategic planning, long-term goal setting, management of managers, and efficient coaching**. 
 
 **Strategically manages stakeholders and deadlines** to ensure that self-improvement is part of their department's regular schedule and culture.","Able to lead teams to create innovative solutions that impact **the product or organization.**
 
@@ -331,7 +332,7 @@ Delivers timely POCs for **division-wide** features, coordinating with different
 
 Knows the teams' capabilities and sets challenging goals **for the organization**.
 
-Manages risks, challenges, and results to accelerate the **organization's performance**, taking into account the situation **across the organization**.","Takes responsibility to assess risks associated with technical solutions, cooperates with the relevant teams, and incorporates them into the **division's** roadmap.
+Manages risks, challenges, and results to accelerate the **company's performance**, taking into account the situation **across the company**.","Takes responsibility to assess risks associated with technical solutions, cooperates with the relevant teams, and incorporates them into the **division's** roadmap.
 
 **Transforms rough project ideas into finished results by planning, dividing them into tasks, incorporating all the relevant stakeholders, and taking action.** 
 
@@ -373,7 +374,7 @@ Works to build and improve relationships with anyone **across the company** who 
 
 Creates an environment of psychological safety **across teams** by encouraging others to voice opinions and ensuring failure analysis is focused on the process and not on individuals.
 
-Values different opinions and diverse ideas, highlighting the best and encouraging everyone **across teams** to take ownership of their work.","**Has expertise in several domains** inside their platform architecture and **understands how these interact with each other**.
+Values different opinions and diverse ideas, highlighting the best and encouraging everyone **across teams** to take ownership of their work.","Understands all other domains and **has expertise in several of them**. Also **has a deep understanding of how these architectures and domains interact with each other**. 
 
 **Works across teams, fostering and leading the design of an architecturethat allows for iterative, autonomous development and future scaling.** 
 
@@ -418,13 +419,13 @@ Prioritizes and breaks down **division-wide projects** into smaller sub-projects
 Sets goals and roadmaps **across teams and helps other EMs to understand the strategy and make their own goals.**
 
 Defines the resources necessary for a team to solve issues including outsourcing and hiring new members, thereby balancing the results and cost **to achieve cross-team goals**."
-L6,"Investigates, discusses, and frequently thinks about ways to improve the **Mercari Group** and **serves as the key person involved** in implementing these improvements; **some examples include revamping a specific engineering domain like machine learning or acquiring expert-level skills in a technical area.**
+MG6,"Investigates, discusses, and frequently thinks about ways to improve the **Mercari Group** and **serves as the key person involved** in implementing these improvements; **some examples include revamping a specific engineering domain like machine learning or acquiring expert-level skills in a technical area.**
 
-Learns new things relevant to their role, including, but not limited to, **expert-level domain skills and cutting-edge research**, as well as communication skills, project management skills, and product development skills.
+Learns new things relevant to their role and applies them to their work, including, but not limited to: **expert-level domain skills and cutting-edge research**, as well as communication skills, project management skills, and product development skills.
 
 [Engineering Manager Skills]
 
-Learns **executive-level management** skills, such as **long-term vision setting**, strategic planning, long-term goal setting, management of managers, and coaching. 
+Learns and applies **executive-level management skills** to their work, such as **long-term vision setting**, strategic planning, long-term goal setting, management of managers, and coaching. 
 
 Ensures that self-improvement is part of the **company's culture**.","**Identifies trends in the industry** that can be transformed into new products or features and takes a proactive approach towards making this happen.
 
@@ -438,7 +439,7 @@ Delivers timely proofs of concept (POC) for **product-wide** features, coordinat
 
 Knows the company's capabilities and sets challenging **company** goals that will be acknowledged outside of the company as well.
 
-Manages risks, challenges, and results **to accelerate organizational performance**.","Takes responsibility to assess risks associated with technical solutions. **Acts as a security reference in their domain of expertise**.
+Manages risks, challenges, and results **to accelerate the Mercari Group performance**.","Takes responsibility to assess risks associated with technical solutions. **Acts as a security reference in their domain of expertise**.
 
 Transforms rough project ideas into finished results by planning, dividing them into tasks, incorporating all the relevant stakeholders, and taking action.
 
@@ -476,9 +477,9 @@ Works to build and improve relationships with anyone **across the Mercari group*
 
 [Engineering Manager Skills]
 
-Creates an environment of psychological safety **across the division** by encouraging others to voice opinions and ensuring failure analysis is focused on the process and not on individuals.
+Creates an environment of psychological safety **across Mercari group** by encouraging others to voice opinions and ensuring failure analysis is focused on the process and not on individuals.
 
-Values different opinions and diverse ideas, highlighting the best and encouraging everyone **across the division** to take ownership of their work.
+Values different opinions and diverse ideas, highlighting the best and encouraging everyone **across Mercari group** to take ownership of their work.
 
 Promotes diversity **within the company**.","Has expertise in **the whole platform’s architecture** and a deep understanding of all domains and how these domains interact with each other; **can guide others on how to switch between domains and work productively.**
 
