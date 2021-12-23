@@ -1,94 +1,58 @@
 # MG2
 ###### Mercari Engineering Career Ladder
 
- * [Seek Continuous Improvement](#seek-continuous-improvement)
- * [Go Bold, Fail Fast & Learn Early](#go-bold-fail-fast--learn-early)
- * [Take Action & Responsibility](#take-action--responsibility)
- * [Focus on the Customer](#focus-on-the-customer)
- * [Strive for Alignment](#strive-for-alignment)
- * [Foster Trust & Inclusion](#foster-trust--inclusion)
- * [Deliver with High Quality](#deliver-with-high-quality)
- * [Share to Empower](#share-to-empower)
- * [Be Strategic & Efficient](#be-strategic--efficient)
+ * [Bold Challenges](#bold-challenges)
+ * [Vision](#vision)
+ * [Priorities / Direction](#priorities--direction)
+ * [Teamwork](#teamwork)
+ * [Ownership](#ownership)
+ * [Expertise](#expertise)
 
-## Seek Continuous Improvement
-**Investigates, discusses and frequently thinks about ways to improve their team;  proactively makes improvements.**
-**Some examples are: reducing technical debt, task automation, workflows, and team practices.**
+## Bold Challenges
+**Thinks outside the box and proposes solutions to technical challenges and ongoing feature development.**
 
-Learns new things relevant to their role and applies them to their work, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills, or product development skills.
+**Thinks of approaches to testing based on hypotheses and proposes them to their team in order to test new ideas.**
+
+**Accepts uncertainty and challenges themself to take on seemingly difficult tasks in order to grow and achieve results.**
 
 
-## Go Bold, Fail Fast & Learn Early
-**Thinks outside the box and is able to find different ways to solve the technical challenges of an ongoing feature development or of the legacy codebase.**
+## Vision
+**When making decisions, lists the pros and cons of multiple solutions based on data and facts to determine which one is the most suitable.**
 
-**Is able to list the pros and cons of multiple solutions and judge which one is the most suitable.**
+**Takes action in accordance with** their team’s goals, the company’s values, and the organizational vision.
 
-**Is able to research and seek out required information within the team's domain, as well as create hypotheses about how things work.**
-
-**Proposes technical approaches with a bias towards incremental delivery.**
-
-**Is able to create prototypes and proofs of concept (POC) in order to better understand what works and what doesn't.**
+**Autonomously considers how they can contribute to achieving their team or project’s goals and sets their own goals to do so.**
 
 
-## Take Action & Responsibility
-**Takes responsibility to identify risks associated with technical solutions and escalates security issues to senior members.**
+## Priorities / Direction
+**Understands the value their team provides to end users and gives their team feedback about their work’s impact on the user experience.**
 
-**Handles customer support requests, can be on call when necessary, follows incident handling procedures, and contributes to post-mortem reports.**
+Explains how their team’s domain **contributes to** the product **and how the product impacts the industry.**
 
-**Considers both short-term and long-term solutions when fixing bugs.**
-
-
-## Focus on the Customer
-**Understands the value their team provides to customers and gives their team feedback about the pros and cons of the user experience.**
-
-Knows how to write code considering data utilization. Some examples are: logging data, A/B tests.
-
-Understands the code **of their assigned domain, can modify it, and understands how it relates to their assigned project.**
-
-**Investigates the cause of customer inquiries with the help of other engineers.**
+**Prioritizes and breaks down their tasks,** utilizing **various** methods to improve their productivity.
+**Examples: Reusing existing resources, using tools, automation**
 
 
-## Strive for Alignment
-Explains their ideas and opinions to other engineers clearly and respectfully.
+## Teamwork
+**Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**
 
-Handles disagreements with proper consideration and respect towards those involved; is open to changing their mind.
+**Delivers** praise and **constructive feedback.**
 
-**Follows** the team's goals, the company's values, and the engineering principles, and **actively pushes the team towards them.**
-
-
-## Foster Trust & Inclusion
-Understands **how to deliver** praise and **constructive** feedback.
-
-**Seeks feedback actively from their teammates and manager;** uses feedback as a tool for growth.
-
-Listens to others, **pays attention to nonverbal communication, and ensures they are understood in order to build strong relationships** with their teammates, manager, and **business counterparts.**
+Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**
 
 
-## Deliver with High Quality
-**Understands the team’s domain and can deliver value to any parts of the domain and design functions that are aligned with the overall service architecture.**
+## Ownership
+**Follows incident handling procedures and contributes to** post-mortem **reports.**
 
-Knows the programming languages, frameworks, and libraries of their platform; **consistently** writes testable and readable code **keeping edge cases and errors in mind.**
+**Investigates risks discovered and escalates issues to senior members.**
 
-**Resolves complex bugs or issues with minimal guidance.**
-
-**Actively participates in code reviews** and can follow release procedures **with no guidance.**
+**Proactively makes efforts** to improve their work **based on investigations and discussions.**
 
 
-## Share to Empower
-Documents **team processes, onboarding guides, and playbooks** within their teams; shares this information **in presentations inside or outside the company.**
+## Expertise
+**Selects,** learns, and applies new technical knowledge/skills relevant to their work.
 
-Seeks out mentorship to grow their own experience **and mentors new teammates in an open, respectful, flexible, and empathetic manner**.
+**Resolves bugs or issues with minimal guidance.**
+**Actively participates in** code reviews and can follow release procedures with **no guidance.**
 
-Communicates their interests and career goals so that others can provide them with opportunities for growth.
-
-**Shares** post-mortem information after an incident.
-
-
-## Be Strategic & Efficient
-**Knows when to reuse existing resources present in the codebase, team, or industry.**
-
-Knows when and how to ask for help to eliminate blockers.
-
-**Is capable of prioritizing and breaking down engineering tasks within a team involving one or two people in the team; recognizes the amount of work required and raises alerts when necessary.**
-
-**Makes an effort to use a data-driven approach**.
+Knows the programming languages, frameworks, libraries, and domain of their platform and develops minor functions **on their own.**

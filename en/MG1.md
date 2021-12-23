@@ -1,90 +1,60 @@
 # MG1
 ###### Mercari Engineering Career Ladder
 
- * [Seek Continuous Improvement](#seek-continuous-improvement)
- * [Go Bold, Fail Fast & Learn Early](#go-bold-fail-fast--learn-early)
- * [Take Action & Responsibility](#take-action--responsibility)
- * [Focus on the Customer](#focus-on-the-customer)
- * [Strive for Alignment](#strive-for-alignment)
- * [Foster Trust & Inclusion](#foster-trust--inclusion)
- * [Deliver with High Quality](#deliver-with-high-quality)
- * [Share to Empower](#share-to-empower)
- * [Be Strategic & Efficient](#be-strategic--efficient)
+ * [Bold Challenges](#bold-challenges)
+ * [Vision](#vision)
+ * [Priorities / Direction](#priorities--direction)
+ * [Teamwork](#teamwork)
+ * [Ownership](#ownership)
+ * [Expertise](#expertise)
 
-## Seek Continuous Improvement
-Listens to suggestions from others and incorporates them into their everyday practices.
+## Bold Challenges
+Explains that there are always multiple solutions for a given problem.
 
-Learns new things relevant to their role and applies them to their work, including, but not limited to: programming languages, frameworks, testing, debugging, writing readable code, communication skills, project management skills and product development skills.
+Explains that even when they don’t have enough data to realize an idea, they can test it by creating proofs of concept (POC) and other methods.
 
-
-## Go Bold, Fail Fast & Learn Early
-Understands that there are always multiple solutions for a given problem.
-
-Asks for clarification when dealing with uncertainty.
-
-Has a basic understanding of Scrum and how to create proofs of concept (POC) when designing new features.
+Takes on work outside of their comfort zone with help from those around them, even in uncertain situations.
 
 
-## Take Action & Responsibility
-Understands that they must take responsibility for their actions.
-
-Understands the importance of security.
-
-Understands the status of each service using monitoring and observability tools.
-
-Reports on the progress of their work daily, and accurately.
-
-Tries to understand the reason why a bug occurs and also reads and understands post-mortem reports.
-
-
-## Focus on the Customer
-Understands the basic usage of the product and how given tasks affect customers.
-
-Knows how to write code considering data utilization. 
+## Vision
+Explains how to gather information necessary for making decisions.
 Some examples are: logging data, A/B tests.
 
-Understands code that contains business logic with support from other engineers.
+Explains their team’s goals, the company’s values, and the organizational vision.
+
+Explains the objective and reasons behind the problems they are solving or the features they are developing.
 
 
-## Strive for Alignment
-Explains their ideas and opinions to other engineers clearly and respectfully.
+## Priorities / Direction
+Understands the basic usage of the product and can explain the value their work provides to end users.
 
-Handles disagreements with proper consideration and respect towards those involved; is open to changing their mind.
+Explains how their team’s domain and the company’s product make a profit and provide value to users as a business.
 
-Understands the team's goals, the company's values, and the engineering principles.
+Completes small, defined engineering tasks within a reasonable amount of time, utilizing methods to improve their productivity while receiving help from those around them.
+Examples: Source control, editors, the build system, best practices for testing
 
 
-## Foster Trust & Inclusion
-Understands that praise and feedback are useful when delivered in a kind manner.
+## Teamwork
+Explains their ideas and opinions to other members clearly and respectfully.
 
-Uses the feedback they receive as a tool for growth.
+Explains that praise and feedback are useful when delivered in a kind manner.
 
 Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.
 
 
-## Deliver with High Quality
-Has awareness of the service architecture and can design basic functions, avoiding unnecessary duplication and interface-breaking changes.
+## Ownership
+Tries to understand the reason why a bug occurs and also can explain the importance of sharing post-mortem reports.
 
-Knows the basics of the programming languages, frameworks, and libraries of their platform.
+Explains the importance of security and risk management.
 
-Writes testable and readable code, following their team’s guidelines while paying attention to the organization of the code, testability, readability, edge cases, and errors.
+Listens to suggestions from others and utilizes them to improve their work.
 
+
+## Expertise
+Learns new technical knowledge/skills relevant to their work and applies them with help from those around them.
+Examples: Programming languages, frameworks, testing, debugging, writing readable code
+
+Writes code with help from those around them, following their team’s guidelines while paying attention to the organization of the code, testability, readability, edge cases, and errors.
 Understands other members’ code reviews and can follow release procedures with some guidance.
 
-
-## Share to Empower
-Documents and shares their code and API specifications; shares their knowledge with their teammates.
-
-Seeks out mentorship to grow.
-
-Communicates their interests and career goals so that others can provide them with opportunities for growth.
-
-Understands the importance of sharing post-mortem information after an incident.
-
-
-## Be Strategic & Efficient
-Develops their productivity skills by learning source control, editors, the build system, best practices for testing, and other tools.
-
-Knows when and how to ask for help to eliminate blockers.
-
-Completes small, well-defined engineering tasks within a reasonable amount of time.
+Knows the basics of the programming languages, frameworks, libraries, and domain of their platform and, with help from those around them, designs minor functions taking into account interface compatibility and scalability.

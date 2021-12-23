@@ -1,151 +1,109 @@
 # MG6
 ###### Mercari Engineering Career Ladder
 
- * [Seek Continuous Improvement](#seek-continuous-improvement)
- * [Go Bold, Fail Fast & Learn Early](#go-bold-fail-fast--learn-early)
- * [Take Action & Responsibility](#take-action--responsibility)
- * [Focus on the Customer](#focus-on-the-customer)
- * [Strive for Alignment](#strive-for-alignment)
- * [Foster Trust & Inclusion](#foster-trust--inclusion)
- * [Deliver with High Quality](#deliver-with-high-quality)
- * [Share to Empower](#share-to-empower)
- * [Be Strategic & Efficient](#be-strategic--efficient)
+ * [Bold Challenges](#bold-challenges)
+ * [Vision](#vision)
+ * [Priorities / Direction](#priorities--direction)
+ * [Teamwork](#teamwork)
+ * [Ownership](#ownership)
+ * [Expertise](#expertise)
 
-## Seek Continuous Improvement
-Investigates, discusses, and frequently thinks about ways to improve the **Mercari Group** and **serves as the key person involved** in implementing these improvements; **some examples include revamping a specific engineering domain like machine learning or acquiring expert-level skills in a technical area.**
+## Bold Challenges
+**Comes up with unprecedented solutions and ideas in specific areas and innovates with new products/features.**
 
-Learns new things relevant to their role and applies them to their work, including, but not limited to: **expert-level domain skills and cutting-edge research**, as well as communication skills, project management skills, and product development skills.
+**Encourages all, even those outside of their company, to take calculated risks and to learn from mistakes.**
 
-### [Engineering Manager Skills]
-
-Learns and applies **executive-level management skills** to their work, such as **long-term vision setting**, strategic planning, long-term goal setting, management of managers, and coaching. 
-
-Ensures that self-improvement is part of the **company's culture**.
-
-
-## Go Bold, Fail Fast & Learn Early
-**Identifies trends in the industry** that can be transformed into new products or features and takes a proactive approach towards making this happen.
-
-Has first-hand, empirical experience, **enabling division-wide decisions when dealing with uncertain situations.**
-
-Delivers timely proofs of concept (POC) for **product-wide** features, coordinating with different stakeholders.
+**Takes on technical challenges across companies and contributes to creating an environment that encourages engineers across the group to** step out of their comfort zones.
 
 ### [Engineering Manager Skills]
 
-**Shows strong leadership to inspire engineers both inside and outside the company to challenge themselves**
+Identifies issues **involving multiple companies** and thinks of and implements methods to drive solutions.
 
-Knows the company's capabilities and sets challenging **company** goals that will be acknowledged outside of the company as well.
+**Sets** challenging goals for the company **that are recognized even outside of the company and helps boost the group’s performance.**
 
-Manages risks, challenges, and results **to accelerate the Mercari Group performance**.
+Helps foster a culture that welcomes new challenges without fear of failure across **the group.**
 
 
-## Take Action & Responsibility
-Takes responsibility to assess risks associated with technical solutions. **Acts as a security reference in their domain of expertise**.
+## Vision
+**Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
 
-Transforms rough project ideas into finished results by planning, dividing them into tasks, incorporating all the relevant stakeholders, and taking action.
+**Understands the goals and strategies of both their company and others and encourages organizations across companies to take action to help achieve the group’s goals.**
 
-Creates and applies the organization's best security practices.
-
-### [Engineering Manager Skills]
-
-**Coordinates with the engineering leadership to roll out big initiatives.**
-
-Takes responsibility for **company-wide incidents** and is able to coordinate with stakeholders to solve issues.
-
-## Focus on the Customer
-
-**Fully comprehends product-side business strategies; Is capable of explaining said strategies; identifies and analyzes potential competitors; actively makes decisions and adjusts projects based on those findings.**
-
-**Understands market trends as well as new technical developments and is able to map them into company and product strategies.**
+Leads the way to ensure that **all companies** understand and agree on the **group’s** organizational strategy and works to earn the cooperation of all engineers in **the group** in working toward the **group’s** goals.
 
 ### [Engineering Manager Skills]
 
-Knows the business impact of the product's features **across the Mercari Group** and continuously shares information with PMs.
+Designs **and applies** the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.
 
-Has expertise on the **group-wide** customer perspective, **builds a culture to encourage** members to understand it, and helps PMs to design new features.
+**Understands long-term group goals and the strategies and reasoning behind them; is an opinion leader when it comes to defining goals and milestones for development across companies.**
 
-
-## Strive for Alignment
-Explains their ideas and opinions to both engineers and other company members clearly and respectfully.
-
-Finds solutions which satisfy the concerns of stakeholders across the company.
-
-Achieves consensus **throughout the company** regarding organizational strategies.
-
-### [Engineering Manager Skills]
-
-Creates and communicates **group-wide strategies**.
-
-**Seeks and adopts ideas based on feedback from all members of the company**.
+**Works with engineering leaders and comes up with major strategies for the future.**
 
 
-## Foster Trust & Inclusion
-Acts as a role model for delivering praise and constructive feedback.
+## Priorities / Direction
+**Decides** technical policies and specifications **for development across companies that** enhance the value of the product in **the long term, as well as leads the company to achieve business goals.**
 
-Actively seeks feedback from **across Mercari group and from business stakeholders**, using it as a tool for growth.
+**Known by those around them as an expert in domain knowledge, using that knowledge to participate in creating business strategies for large-scale market impact.**
 
-**Is a role model in facilitating discussions**, encourages everyone, including quiet participants, to share their opinion, and actively listens. Ensures no one dominates the conversation.
-
-Works to build and improve relationships with anyone **across the Mercari group** who is related to their team.
+**Helps create a highly productive organization and product and is recognized for those contributions by engineers both in their company and in others.**
 
 ### [Engineering Manager Skills]
 
-Creates an environment of psychological safety **across Mercari group** by encouraging others to voice opinions and ensuring failure analysis is focused on the process and not on individuals.
+**Fosters a culture that encourages engineers across the group to understand the user perspective and works across the group to deliver high-quality products.**
 
-Values different opinions and diverse ideas, highlighting the best and encouraging everyone **across Mercari group** to take ownership of their work.
+**Recognized as an expert in their field in quality management and release management.**
 
-Promotes diversity **within the company**.
+**In development across companies**, achieves greater results by considering the balance between results and costs.
 
 
-## Deliver with High Quality
-Has expertise in **the whole platform’s architecture** and a deep understanding of all domains and how these domains interact with each other; **can guide others on how to switch between domains and work productively.**
+## Teamwork
+Resolves conflicts between **companies in development across companies and creates mechanisms to prevent disputes between teams.**
 
-Works **across the whole organization** to foster a culture of architecture allowing for iterative, autonomous development and future scaling.
+**Encourages engineers both in** their company **and in others to give** constructive feedback and **fosters a culture in which engineers leverage each other’s strengths to help each other grow.**
 
-**Is a recognized expert** in the programming languages, frameworks, libraries, and tools of their platform.
-
-Is a role model for how to write testable and readable code, keeping edge cases and errors in mind; has vast knowledge of coding guidelines and standards for their platform; and consistently works to make improvements for the whole platform.
-
-Sets the coding guidelines and standards for systematic debugging **for Mercari Group’s whole platform and acts as an advisor** on how to solve complex issues and perform difficult releases.
+**Trusted by even those in other companies.**
+**Builds trust with a wide range of people both inside and outside of the company and contributes to creating a strong engineering organization through recruiting and other activities.**
 
 ### [Engineering Manager Skills]
 
-**Works across the Mercari Group to deliver high-quality products.**
+Encourages **engineers across the group** to value different opinions and diverse ideas **and comes up with solutions incorporating the opinions of members within the group.**
 
-**Is a recognized expert** in quality management and release management.
+**Works to train new mentors across the organization and provides other EMs with opportunities to grow their career and learn new skills.**
 
-
-## Share to Empower
-Fosters a culture of documentation, knowledge, and information-sharing **within the Mercari Group**, as well as actively demonstrates these behaviors.
-
-Shares post-mortem information **across the Mercari Group** after an incident and makes sure that everyone understands the impact and how to prevent the incident from reoccurring.
-
-### [Engineering Manager Skills]
-
-Creates and shares the **division-wide OKRs with other leaders.** Provides the necessary support for EMs to create and achieve their own OKRs.
-
-Promotes and coaches new mentors **across the organization**.
-
-Supports **other leaders** in their career growth by creating both an environment which facilities growth and specific situations where they can develop the skills to achieve their career goals.
+**Communicates appropriately to achieve goals in development across companies.**
 
 
-## Be Strategic & Efficient
-Sets guidelines on when to reuse existing resources present in the codebase, team, or industry.
+## Ownership
+Encourages other members **across companies** to share post-mortem reports and makes sure that other engineers can take action to prevent the incident from reoccurring.
 
-Helps others to make steady progress on tasks and helps eliminate any blockers.
+Investigates risks **in development across companies and is recognized as a risk management expert in the group.**
 
-**Is a recognized expert** of the domain and its related technologies; creates guidelines and a one-year roadmap for the technical direction of the whole domain.
-
-Knows when and how to spend time on tasks like performance optimizations and memory management.
-
-Proposes solutions backed by data or well-known credible evidence; seeks data-backed evidence through proofs of concept (POC), tests, and external research.
+**Encourages engineers across the group to focus on the process, not on individual responsibilities, and leads efforts to solve issues involving multiple companies.**
 
 ### [Engineering Manager Skills]
 
-Identifies and utilizes the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our external customers.
+Comes up with suggestions to improve systems and processes at the **group** scale, enabling people to handle technical incident more efficiently.
 
-Prioritizes and breaks down **company-wide** projects into smaller sub-projects and tasks. 
+Encourages engineers across **the entire group** to take ownership of their work.
 
-**Understands long-term group goals and the strategies and reasoning behind them; is an opinion leader for defining division-wide goals and roadmaps.**
+**Helps foster a culture of psychological safety across the group by ensuring that analysis of issues is** focused on the process and not on individuals.
 
-Defines the resources necessary for a team to solve issues including outsourcing and hiring new members, thereby balancing the results and costs **across the division, to achieve the division’s goals**.
+
+## Expertise
+Learns and applies new knowledge even outside of the scope of their role, **such as expert-level technology and cutting-edge research.**
+Encourages engineers across **the group** to share technical information and acts as a role model for such sharing.
+
+**Recognized by those around them as an expert in coding in certain domains.**
+Sets standards for how to do code reviews and systematic debugging and acts as an advisor on how to solve issues for coding and perform difficult releases **across companies.**
+
+**Recognized throughout the group as an architect and is an expert in software design.**
+Leads design **and improvements** for development **across companies with their broad knowledge and outlook.**
+
+### [Engineering Manager Skills]
+
+**Ensures that** self-improvement **is part of engineering culture within Mercari Group.**
+
+Learns and applies **executive-level** management skills, such as **long-term vision setting,** strategic planning, long-term goal setting, management of managers, and coaching.
+
+**Shows strong leadership, inspiring engineers both inside and outside the company to challenge themselves and grow.**
+
