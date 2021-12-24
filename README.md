@@ -2,7 +2,7 @@
 
 The Engineering Ladder was created for Mercari engineers to have a consistent culture and overall alignment as an engineering organization.
 
-This is a framework for visualizing and evaluating the behavior and competency of engineers, based on the Engineering Principle.
+This is a framework for visualizing and evaluating the behavior and competency of engineers.
 
 The Mercari Engineering Ladder is only one piece of a larger initiative to promote Mercari engineer's continuous improvement and career development. It should be used as a support tool in addition to regular management practices like 1:1s between engineers and their managers, regular feedback and conversations about alignment and growth, quarterly goal setting and bi-annual performance reviews.
 
