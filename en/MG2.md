@@ -42,7 +42,7 @@ Listens to others, **pays attention to nonverbal communication, and builds** str
 
 
 ## Ownership
-**Follows incident handling procedures and contributes to** post-mortem **reports.**
+**Follows incident handling procedures and contributes to** post-mortem reports.
 
 **Investigates risks discovered and escalates issues to senior members.**
 
