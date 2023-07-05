@@ -74,7 +74,8 @@ Connects different members and projects across teams to solve issues.
 
 
 ## Ownership
-**Responds to small-scale incidents within their team and actively creates** post-mortem reports **that other engineers can use to prevent the incident from reoccurring.**
+**Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
+**Examples: Leverages methods such as post-incident analysis (post-mortem), pros/cons lists, decision matrices, etc.**
 
 Investigates risks **and creates and carries out contingency plans for the future.**
 
@@ -83,7 +84,7 @@ Investigates risks **and creates and carries out contingency plans for the futur
 
 ### [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the team scale, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized within the team.
 
 Encourages everyone in the team to take ownership of their work.
 
@@ -91,7 +92,7 @@ Encourages failure analysis focused on the process, not on individuals.
 
 
 ## Expertise
-**Shares knowledge and techniques they learn with engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
+**Shares knowledge with and teaches techniques to engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
 
 **Has deep knowledge of the code and uses that knowledge in actively doing** code reviews **for the team.**
 **Suggests new guidelines and ways to improve systematic debugging; resolves technical issues and bugs with large impact.**

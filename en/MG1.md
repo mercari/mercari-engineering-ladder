@@ -43,7 +43,8 @@ Listens to others and makes their best effort to understand them, in order to bu
 
 
 ## Ownership
-Tries to understand the reason why a bug occurs and also can explain the importance of sharing post-mortem reports.
+Can find and leverage the knowledge required for their work. 
+Creates documents relevant to their team for information sharing.
 
 Explains the importance of security and risk management.
 

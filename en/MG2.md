@@ -42,7 +42,8 @@ Listens to others, **pays attention to nonverbal communication, and builds** str
 
 
 ## Ownership
-**Follows incident handling procedures and contributes to** post-mortem reports.
+**Not only creating documentation for their team, but improves the team's documentation as needed.**
+**Understands and explains the importance of sharing knowledge and information.**
 
 **Investigates risks discovered and escalates issues to senior members.**
 

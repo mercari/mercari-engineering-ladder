@@ -48,4 +48,5 @@ This repository is maintained by the Engineering Office. If you have any request
 
 ## License
 
-This work is licensed under [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
+WIP
+

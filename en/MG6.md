@@ -74,7 +74,7 @@ Encourages **engineers across the group** to value different opinions and divers
 
 
 ## Ownership
-Encourages other members **across companies** to share post-mortem reports and makes sure that other engineers can take action to prevent the incident from reoccurring.
+Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
 
 Investigates risks **in development across companies and is recognized as a risk management expert in the group.**
 
@@ -82,7 +82,7 @@ Investigates risks **in development across companies and is recognized as a risk
 
 ### [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the **group** scale, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized  within the **group.**
 
 Encourages engineers across **the entire group** to take ownership of their work.
 

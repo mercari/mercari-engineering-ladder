@@ -17,7 +17,8 @@ Examples: Source control, editors, the build system, best practices for testing"
 
 Explains that praise and feedback are useful when delivered in a kind manner.
 
-Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.","Tries to understand the reason why a bug occurs and also can explain the importance of sharing post-mortem reports.
+Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.","Can find and leverage the knowledge required for their work. 
+Creates documents relevant to their team for information sharing.
 
 Explains the importance of security and risk management.
 
@@ -45,7 +46,8 @@ Explains how their team’s domain **contributes to** the product **and how the 
 
 **Delivers** praise and **constructive feedback.**
 
-Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**","**Follows incident handling procedures and contributes to** post-mortem reports.
+Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**","**Not only creating documentation for their team, but improves the team's documentation as needed.**
+**Understands and explains the importance of sharing knowledge and information.**
 
 **Investigates risks discovered and escalates issues to senior members.**
 
@@ -104,7 +106,8 @@ Values different opinions and diverse ideas, and encourages everyone in their te
 
 Delegates tasks to promote skill growth and takes responsibility for onboarding new members.
 
-Connects different members and projects across teams to solve issues.","**Responds to small-scale incidents within their team and actively creates** post-mortem reports **that other engineers can use to prevent the incident from reoccurring.**
+Connects different members and projects across teams to solve issues.","**Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
+**Examples: Leverages methods such as post-incident analysis (post-mortem), pros/cons lists, decision matrices, etc.**
 
 Investigates risks **and creates and carries out contingency plans for the future.**
 
@@ -113,11 +116,11 @@ Investigates risks **and creates and carries out contingency plans for the futur
 
 [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the team scale, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized within the team.
 
 Encourages everyone in the team to take ownership of their work.
 
-Encourages failure analysis focused on the process, not on individuals.","**Shares knowledge and techniques they learn with engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
+Encourages failure analysis focused on the process, not on individuals.","**Shares knowledge with and teaches techniques to engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
 
 **Has deep knowledge of the code and uses that knowledge in actively doing** code reviews **for the team.**
 **Suggests new guidelines and ways to improve systematic debugging; resolves technical issues and bugs with large impact.**
@@ -180,16 +183,17 @@ Knows the impact their team’s **and other team’s** work has on end users and
 
 **Mentors their team members in an open and respectful manner; goes beyond their team to improve onboarding for engineers.**
 
-Connects different members and projects across **their entire division** to solve issues.","**Shares post-mortem reports and makes sure that all stakeholders (both within and outside of their team) understand the impact and can take action** to prevent the incident from reoccurring.
+Connects different members and projects across **their entire division** to solve issues.","**Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
+**Examples: Proposing improvements, presenting at meetings, and creating tools, documents or guidelines for their division**
 
 Investigates risks, **coordinates with relevant teams, and takes necessary measures.**
 **Boosts risk management awareness among their team.**
 
-**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements in projects involving multiple teams.**
+**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
 
 [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at **the multiple teams**, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized **across multiple teams or projects.**
 
 Encourages **engineers across multiple teams** to take ownership of their work.
 
@@ -254,16 +258,16 @@ Encourages members **across** their **company** to value different opinions and 
 
 Mentors their team members **and other EMs** in an open and respectful manner; improves onboarding for engineers **on the company level.**
 
-Connects different members and projects across their entire **company** to solve issues.","**Encourages other members of their company to share** post-mortem reports and makes sure that **other engineers** can take action to prevent the incident from reoccurring.
+Connects different members and projects across their entire **company** to solve issues.","**Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
+**Examples: Proposes and implements best practices for the entire company and contributes to the projects and committees related to them**
 
 Investigates risks, coordinates with relevant teams **across their company**, and takes necessary measures.
-**Creates and promotes the organization's best security practices.**
 
-Investigates and discusses ways to improve **work in company-level development; takes** the lead to implement improvements **across the company.**
+Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
 
 [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the **company scale**, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized **within the company.**
 
 Encourages engineers across **their company** to take ownership of their work.
 
@@ -330,7 +334,7 @@ Encourages **engineers across the group** to value different opinions and divers
 
 **Works to train new mentors across the organization and provides other EMs with opportunities to grow their career and learn new skills.**
 
-**Communicates appropriately to achieve goals in development across companies.**","Encourages other members **across companies** to share post-mortem reports and makes sure that other engineers can take action to prevent the incident from reoccurring.
+**Communicates appropriately to achieve goals in development across companies.**","Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
 
 Investigates risks **in development across companies and is recognized as a risk management expert in the group.**
 
@@ -338,7 +342,7 @@ Investigates risks **in development across companies and is recognized as a risk
 
 [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the **group** scale, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized  within the **group.**
 
 Encourages engineers across **the entire group** to take ownership of their work.
 

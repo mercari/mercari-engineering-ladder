@@ -75,16 +75,17 @@ Connects different members and projects across **their entire division** to solv
 
 
 ## Ownership
-**Shares post-mortem reports and makes sure that all stakeholders (both within and outside of their team) understand the impact and can take action** to prevent the incident from reoccurring.
+**Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
+**Examples: Proposing improvements, presenting at meetings, and creating tools, documents or guidelines for their division**
 
 Investigates risks, **coordinates with relevant teams, and takes necessary measures.**
 **Boosts risk management awareness among their team.**
 
-**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements in projects involving multiple teams.**
+**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
 
 ### [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at **the multiple teams**, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized **across multiple teams or projects.**
 
 Encourages **engineers across multiple teams** to take ownership of their work.
 

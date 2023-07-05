@@ -72,16 +72,16 @@ Connects different members and projects across their entire **company** to solve
 
 
 ## Ownership
-**Encourages other members of their company to share** post-mortem reports and makes sure that **other engineers** can take action to prevent the incident from reoccurring.
+**Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
+**Examples: Proposes and implements best practices for the entire company and contributes to the projects and committees related to them**
 
 Investigates risks, coordinates with relevant teams **across their company**, and takes necessary measures.
-**Creates and promotes the organization's best security practices.**
 
-Investigates and discusses ways to improve **work in company-level development; takes** the lead to implement improvements **across the company.**
+Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
 
 ### [Engineering Manager Skills]
 
-Comes up with suggestions to improve systems and processes at the **company scale**, enabling people to handle technical incident more efficiently.
+Contributes to standardization of information-sharing processes and promotes knowledge sharing, to create an environment where knowledge is effectively utilized **within the company.**
 
 Encourages engineers across **their company** to take ownership of their work.
 
