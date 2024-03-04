@@ -9,9 +9,9 @@
  * [Expertise](#expertise)
 
 ## Bold Challenges
-**In development involving multiple teams**, thinks outside the box and creates **innovative solutions.**
+**In development that impacts multiple teams or the goals of the product or the division,** thinks outside the box and creates **innovative** solutions.
 
-**In a development involving multiple teams, leads in taking on challenging issues and techniques by** using technical approaches with a focus on incremental delivery.
+**In development that impacts multiple teams or the goals of the product or the division,** leads **in taking on challenging issues and** technical approaches **such as** focusing on incremental delivery.
 
 **Consistently takes on new challenges, doesn’t fear high levels of** uncertainty, and helps engineers around them **and on other teams** step out of their comfort zones.
 
@@ -19,13 +19,13 @@
 
 Identifies issues **across multiple teams** and thinks of and implements methods to drive solutions.
 
-**Boosts their team’s performance by collaborating with other teams to achieve goals, taking into account other teams' situations.**
+**Collaborates with other teams to achieve goals, and boosts performance while taking into account other teams' situations.**
 
 Fosters a blameless culture that welcomes new challenges **across multiple teams.**
 
 
 ## Vision
-**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and leads fact-based decision-making in development involving multiple teams.**
+**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and** leads **fact-based** decision-making **in development that impacts multiple teams or the goals of the product or the division.**
 
 **Works with other teams to help achieve goals based on the organizational strategy, considering the interests of both their own team and teams around them.**
 
@@ -41,7 +41,7 @@ Understands the division’s goals, the company’s values, and the organization
 
 
 ## Priorities / Direction
-**Understands product status, issues, and the backlog of teams around them and leads product improvements accordingly.**
+**Leads the value enhancement of the product by understanding the status, issues, and backlog of not only their team and ongoing development but also of surrounding teams and projects.**
 
 **Understands thoroughly the domains of their team and related teams and leads specification design discussions that require complex domain knowledge.**
 
@@ -58,11 +58,11 @@ Knows the impact their team’s **and other team’s** work has on end users and
 
 
 ## Teamwork
-**Encourages engineers on their own team and others to have** constructive discussions and **finds solutions that satisfy the concerns of stakeholders on multiple teams.**
+**Addresses problems with solutions that consider concerns held by stakeholders of multiple teams, such as by encouraging engineers in their own team and others to have** constructive discussions.
 
 **Utilizes feedback to guide members of their own team and of other teams, encouraging those member’s growth.**
 
-**Is** accountable for development **involving multiple teams and** earns understanding and cooperation from **those around them.**
+**Fulfills accountability in development that impacts multiple teams or the goals of the product or the division**, and earns understanding and cooperation from those around them.
 **Always focuses on building** trust with people both inside and outside the company, and works to gather **other talented individuals.**
 
 ### [Engineering Manager Skills]
@@ -78,8 +78,7 @@ Connects different members and projects across **their entire division** to solv
 **Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
 **Examples: Proposing improvements, presenting at meetings, and creating tools, documents or guidelines for their division**
 
-Investigates risks, **coordinates with relevant teams, and takes necessary measures.**
-**Boosts risk management awareness among their team.**
+**Investigates risks, coordinates with the relevant teams, and takes necessary measures.** Takes action to reduce risk and incidents, **such as increasing awareness of risk management across multiple teams.**
 
 **Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
 
@@ -93,14 +92,13 @@ Encourages **multiple teams to conduct** failure analysis focused on the process
 
 
 ## Expertise
-**Learns and applies new knowledge relevant to their role, such as specialized domain skills and architecture.**
-**Communicates high-quality technical information and encourages others to do the same.**
+**Demonstrates advanced skills and knowledge in their field of expertise and architecture. Learns and applies new knowledge beyond their specialty field** to enhance the value of the product. **Communicates high-quality technical information and encourages those around them to do the same.**
 
 Has deep knowledge of the code and **takes responsibility for** doing code reviews for **teams or projects.**
 **Knows how to read and understand difficult coding and existing code with large impact to assist the understanding and growth of engineers across teams.**
 
 Has deep knowledge of **and experience using** programming languages, frameworks, libraries, **design patterns, Mercari’s infrastructure domains, and more.**
-**Based on expected use cases, designs code in a way that minimizes the cost of future changes/investigations; leads design for development involving multiple teams.**
+**Based on expected use cases, designs code in a way that minimizes the cost of future changes/investigations; leads design for development that impacts multiple teams or the goals of the product or the division.**
 
 ### [Engineering Manager Skills]
 

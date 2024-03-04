@@ -25,18 +25,18 @@
 
 
 ## Priorities / Direction
-**Understands the value their team provides to end users and gives their team feedback about their work’s impact on the user experience.**
+Understands **the value that** their product and **team provide to end users and actively works on their assigned tasks while considering the impact on the user experience.**
 
 Explains how their team’s domain **contributes to** the product **and how the product impacts the industry.**
 
-**Prioritizes and breaks down their tasks,** utilizing **various** methods to improve their productivity.
+**Prioritizes and breaks down tasks as well as understand and utilize various methods to improve productivity.**
 **Examples: Reusing existing resources, using tools, automation**
 
 
 ## Teamwork
 **Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**
 
-**Delivers** praise and **constructive feedback.**
+**Understands and implements methods of delivering praise and constructive** feedback.
 
 Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**
 

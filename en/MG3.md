@@ -11,7 +11,7 @@
 ## Bold Challenges
 Thinks outside the box and **creates** solutions **with little or no guidance.**
 
-**Goes beyond just discussions to take the lead in using technical approaches with a focus on incremental delivery as necessary;**
+**Goes beyond just discussions and leads technical approaches focusing on incremental delivery as necessary;**
 **analyzes the results and uses them to make future decisions.**
 
 **Knows the importance of going out of one’s comfort zone and how to deal with uncertainty, and helps engineers around them step out of their comfort zones.**
@@ -28,7 +28,7 @@ Fosters a blameless team culture that welcomes new challenges.
 ## Vision
 **Predicts results and formulates hypotheses** based on data and **credible evidence to lead decision-making within their team or project.**
 
-**Actively communicates** the team’s goals and **supports engineers around them to help achieve the team’s goals.**
+**Contributes to the achievement of team goals by proactively communicating team goals or supporting the engineers around them.**
 
 **Involves themselves in creating team/project goals and formulating technical strategies.**
 
@@ -40,9 +40,9 @@ Understands the division’s goals, the company’s values, and the organization
 
 
 ## Priorities / Direction
-**Understands thoroughly how the product is being used, works as a counterpart of the PM, decides on technical specifications in line with their business goals, and contributes to enhancing the value of the product.**
+Understands **thoroughly how the product is being used by** end users, **contributes to the value enhancement of the product, such as works as a counterpart of the PM to decide on technical specifications.**
 
-**Understands thoroughly the role of** their team’s domain, **how it is connected to related domains, and its importance to the business, and helps those around them deepen their understanding of the domain as well.**
+**In addition to understanding the domain knowledge of their team, has a deep understanding of how their domain interacts with related domains and the importance of their assigned domain in achieving business goals. Helps those around them deepen their understanding of domain knowledge.**
 
 **Possesses productivity-boosting skills and experience, which they share with their fellow members to help increase the productivity of the entire team.**
 **Examples: Knowledge of performance optimization and memory management**
@@ -68,7 +68,7 @@ Defines the resources the team needs to solve issues while making sure results a
 
 Values different opinions and diverse ideas, and encourages everyone in their team to do the same in order to maintain high psychological safety.
 
-Delegates tasks to promote skill growth and takes responsibility for onboarding new members.
+Delegates tasks to promote skill growth. Takes responsibility for onboarding new members.
 
 Connects different members and projects across teams to solve issues.
 
@@ -77,7 +77,8 @@ Connects different members and projects across teams to solve issues.
 **Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
 **Examples: Leverages methods such as post-incident analysis (post-mortem), pros/cons lists, decision matrices, etc.**
 
-Investigates risks **and creates and carries out contingency plans for the future.**
+**Takes action to reduce risk and incidents, such as by undertaking development that considers future risk, and in the event an incident occurs, contributes to the response.**
+**Examples: Considers operational processes and solutions intended to prevent problems, and creates and carries out forward-looking contingency plans within the team**
 
 **Continuously makes improvements by investigating and discussing ways** to improve their **team’s** work.
 **Addresses failures or discovered issues by making improvements focused on the process, not on individual responsibilities.**
@@ -92,13 +93,13 @@ Encourages failure analysis focused on the process, not on individuals.
 
 
 ## Expertise
-**Shares knowledge with and teaches techniques to engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
+**Learns about new fields to contribute to the team in order to enhance the value of the product. Shares and teaches their knowledge and technical know-how with the engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
 
 **Has deep knowledge of the code and uses that knowledge in actively doing** code reviews **for the team.**
 **Suggests new guidelines and ways to improve systematic debugging; resolves technical issues and bugs with large impact.**
 
 **Has deep knowledge of** the programming languages, frameworks, libraries, and domain of their platform; **appropriately carries out abstractions and code isolation.**
-**Takes charge of designing new development projects and suggests ways to improve existing code/features.**
+**Takes charge of designing new development projects or suggests ways to improve existing code/features.**
 
 ### [Engineering Manager Skills]
 

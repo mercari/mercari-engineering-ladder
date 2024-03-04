@@ -19,7 +19,7 @@ Creates innovative solutions **that impact the product or organization.**
 
 Identifies issues **within their company** and thinks of and implements methods to drive solutions.
 
-**Helps set challenging goals for the company to solve organizational issues, as well as boosts the company's performance,** taking into account **the situation across the organization.**
+**Influences the setting of challenging company goals to solve organizational issues, and accelerates the company's performance while** taking into account **the situation of the whole organization.**
 
 **Helps foster** a culture that welcomes new challenges **without fear of failure across their company.**
 
@@ -29,7 +29,7 @@ Identifies issues **within their company** and thinks of and implements methods 
 
 **Thinks about what actions their company should take in order to achieve the company’s goals and encourages teams and projects to execute them.**
 
-**Leads the way to ensure that engineers understand and agree on the company’s organizational strategy and works to earn the cooperation of all engineers in the company in working toward the company's goals.**
+**Works to enable the cooperation of engineers in the company toward achieving goals such as by leading engineers in a way that ensures they understand and agree on the company's organizational strategy.**
 
 ### [Engineering Manager Skills]
 
@@ -41,7 +41,7 @@ Identifies issues **within their company** and thinks of and implements methods 
 ## Priorities / Direction
 **Participates in deciding technical policies and specifications involving the entire product and enhances the value of the product in company-level development.**
 
-Understands thoroughly **their company’s entire product and participates in discussing the roles of and interactions between domains with market impact in mind.**
+**Deeply understands the product and business strategies, and actively participates in examining the interactions and roles between domains, while keeping in mind the impact on the market and the achievement of business goals.**
 
 Possesses strong skills and experience **to boost productivity in the long term and helps** increase productivity **across their company by leveraging and sharing that knowledge with others.**
 
@@ -55,7 +55,7 @@ Possesses strong skills and experience **to boost productivity in the long term 
 
 
 ## Teamwork
-**Resolves conflicts between development teams in their company** and finds solutions that satisfy the concerns of stakeholders **in company-level development.**
+Addresses problems **in company-level development projects** with solutions that consider stakeholder concerns, **such as by resolving conflicts between development teams in their company.**
 
 **Encourages other engineers within their company to grow through praise and constructive feedback, and acts as a role model for delivering effective feedback.**
 
@@ -75,7 +75,7 @@ Connects different members and projects across their entire **company** to solve
 **Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
 **Examples: Proposes and implements best practices for the entire company and contributes to the projects and committees related to them**
 
-Investigates risks, coordinates with relevant teams **across their company**, and takes necessary measures.
+Investigates risks, coordinates with the relevant teams **across the company,** and takes any necessary measures. Increases awareness of risk management **within the company.**
 
 Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
 
@@ -89,11 +89,10 @@ Encourages **their entire company** to conduct failure analysis focused on the p
 
 
 ## Expertise
-Learns and applies new knowledge **even outside of the scope of** their role, **in addition to highly-specialized technical knowledge.**
-**Encourages engineers across the company to share** technical information and **acts as a role model for said sharing.**
+Demonstrates **highly-specialized technical** knowledge. **Encourages engineers across the company to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.**
 
 **Acts as a role model for how to write code.**
-**Sets standards for how to do code reviews and systematic debugging and acts as an advisor on how to solve issues in coding and perform difficult releases.**
+**Provides advice on solving coding issues and carrying out high-difficulty projects, or sets standards for procedures such as code reviews and systematic debugging.**
 
 **Known as an expert in** programming languages, frameworks, libraries, design patterns, Mercari’s infrastructure domains, and more. 
 **Designs code for** expected use cases **and operation and** leads design for development **on a company level.**

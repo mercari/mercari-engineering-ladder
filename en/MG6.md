@@ -11,7 +11,7 @@
 ## Bold Challenges
 **Comes up with unprecedented solutions and ideas in specific areas and innovates with new products/features.**
 
-**Encourages all, even those outside of their company, to take calculated risks and to learn from mistakes.**
+**Promotes such behaviors as learning from mistakes and taking calculated risks without hesitation to members in and outside of their company.**
 
 **Takes on technical challenges across companies and contributes to creating an environment that encourages engineers across the group to** step out of their comfort zones.
 
@@ -27,7 +27,7 @@ Helps foster a culture that welcomes new challenges without fear of failure acro
 ## Vision
 **Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
 
-**Understands the goals and strategies of both their company and others and encourages organizations across companies to take action to help achieve the group’s goals.**
+**Understands the goals and strategies both inside and outside of their company and contributes to the achievement of the group's goals by encouraging organizations across companies to take action.**
 
 Leads the way to ensure that **all companies** understand and agree on the **group’s** organizational strategy and works to earn the cooperation of all engineers in **the group** in working toward the **group’s** goals.
 
@@ -43,7 +43,7 @@ Designs **and applies** the best metrics (time/cost/effort) to guide company-wid
 ## Priorities / Direction
 **Decides** technical policies and specifications **for development across companies that** enhance the value of the product in **the long term, as well as leads the company to achieve business goals.**
 
-**Known by those around them as an expert in domain knowledge, using that knowledge to participate in creating business strategies for large-scale market impact.**
+**Recognized by those around them as an expert in domain knowledge of not just their company, but also of other companies, and uses that knowledge to participate in creating business strategies aimed at making a significant impact in the market.**
 
 **Helps create a highly productive organization and product and is recognized for those contributions by engineers both in their company and in others.**
 
@@ -57,9 +57,9 @@ Designs **and applies** the best metrics (time/cost/effort) to guide company-wid
 
 
 ## Teamwork
-Resolves conflicts between **companies in development across companies and creates mechanisms to prevent disputes between teams.**
+**Builds mechanisms to prevent disputes between units** such as by resolving conflicts between **companies in developments involving multiple companies.**
 
-**Encourages engineers both in** their company **and in others to give** constructive feedback and **fosters a culture in which engineers leverage each other’s strengths to help each other grow.**
+**Fosters a culture in which engineers leverage each other's strengths to help each other grow, such as by encouraging engineers both in their company and in others to give constructive feedback.**
 
 **Trusted by even those in other companies.**
 **Builds trust with a wide range of people both inside and outside of the company and contributes to creating a strong engineering organization through recruiting and other activities.**
@@ -76,9 +76,9 @@ Encourages **engineers across the group** to value different opinions and divers
 ## Ownership
 Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
 
-Investigates risks **in development across companies and is recognized as a risk management expert in the group.**
+**Leads risk investigation and incident response measures in development across companies and is recognized as a risk management expert within the group.**
 
-**Encourages engineers across the group to focus on the process, not on individual responsibilities, and leads efforts to solve issues involving multiple companies.**
+**Leads efforts to solve issues involving multiple companies, such as by encouraging engineers in the group to focus on the process and not on individual responsibilities.**
 
 ### [Engineering Manager Skills]
 
@@ -90,8 +90,7 @@ Encourages engineers across **the entire group** to take ownership of their work
 
 
 ## Expertise
-Learns and applies new knowledge even outside of the scope of their role, **such as expert-level technology and cutting-edge research.**
-Encourages engineers across **the group** to share technical information and acts as a role model for such sharing.
+**Learns and applies new knowledge, such as expert-level technology and cutting-edge research, in order to enhance the value of the product and the development of the organization as a whole.** Encourages engineers across **the group** to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.
 
 **Recognized by those around them as an expert in coding in certain domains.**
 Sets standards for how to do code reviews and systematic debugging and acts as an advisor on how to solve issues for coding and perform difficult releases **across companies.**

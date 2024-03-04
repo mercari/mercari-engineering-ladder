@@ -17,12 +17,12 @@ Takes on work outside of their comfort zone with help from those around them, ev
 
 
 ## Vision
-Explains how to gather information necessary for making decisions.
+Understands and explains how to gather information necessary for making decisions.
 Some examples are: logging data, A/B tests.
 
-Explains their team’s goals, the company’s values, and the organizational vision.
+Understands and explains team goals, company values, and organizational vision.
 
-Explains the objective and reasons behind the problems they are solving or the features they are developing.
+Understands and explains the purpose of problem solving or feature development, or the reason for development.
 
 
 ## Priorities / Direction
@@ -35,9 +35,9 @@ Examples: Source control, editors, the build system, best practices for testing
 
 
 ## Teamwork
-Explains their ideas and opinions to other members clearly and respectfully.
+Explains their ideas and opinions to other members in a manner that's respectful and easy to understand.
 
-Explains that praise and feedback are useful when delivered in a kind manner.
+Understands and explains the usefulness of delivering praise and feedback in a polite manner.
 
 Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.
 
