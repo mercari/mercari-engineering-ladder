@@ -1,28 +1,28 @@
-"",Bold Challenges,Vision,Priorities / Direction,Teamwork,Ownership,Expertise
+"",Commending Bold Challenges,Vision,Focus on the Mission,Teamwork,Professionalism,Continued Learning
 MG1,"Explains that there are always multiple solutions for a given problem.
 
 Explains that even when they don’t have enough data to realize an idea, they can test it by creating proofs of concept (POC) and other methods.
 
-Takes on work outside of their comfort zone with help from those around them, even in uncertain situations.","Understands and explains how to gather information necessary for making decisions.
-Some examples are: logging data, A/B tests.
+Takes on work outside of their comfort zone with help from those around them, even in uncertain situations.","Understands and explains team goals, company values, and organizational vision.
 
-Understands and explains team goals, company values, and organizational vision.
+Understands and explains the purpose of problem solving or feature development, or the reason for development.
 
-Understands and explains the purpose of problem solving or feature development, or the reason for development.","Understands the basic usage of the product and can explain the value their work provides to end users.
+Listens to suggestions from others and utilizes them to improve their work.","Understands the basic usage of the product and can explain the value their work provides to end users.
 
 Explains how their team’s domain and the company’s product make a profit and provide value to users as a business.
 
 Completes small, defined engineering tasks within a reasonable amount of time, utilizing methods to improve their productivity while receiving help from those around them.
-Examples: Source control, editors, the build system, best practices for testing","Explains their ideas and opinions to other members in a manner that's respectful and easy to understand.
+Examples: Source control, editors, the build system, best practices for testing","Understands and explains the usefulness of delivering praise and feedback in a polite manner.
 
-Understands and explains the usefulness of delivering praise and feedback in a polite manner.
+Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.
 
-Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.","Can find and leverage the knowledge required for their work. 
+Understands and explains how to gather information necessary for making decisions.
+Some examples are: logging data, A/B tests.","Can find and leverage the knowledge required for their work. 
 Creates documents relevant to their team for information sharing.
 
 Explains the importance of security and risk management.
 
-Listens to suggestions from others and utilizes them to improve their work.","Learns new technical knowledge/skills relevant to their work and applies them with help from those around them.
+Explains their ideas and opinions to other members in a manner that's respectful and easy to understand.","Learns new technical knowledge/skills relevant to their work and applies them with help from those around them.
 Examples: Programming languages, frameworks, testing, debugging, writing readable code
 
 Writes code with help from those around them, following their team’s guidelines while paying attention to the organization of the code, testability, readability, edge cases, and errors.
@@ -33,25 +33,25 @@ MG2,"**Thinks outside the box and proposes solutions to technical challenges and
 
 **Thinks of approaches to testing based on hypotheses and proposes them to their team in order to test new ideas.**
 
-**Accepts uncertainty and challenges themself to take on seemingly difficult tasks in order to grow and achieve results.**","**When making decisions, lists the pros and cons of multiple solutions based on data and facts to determine which one is the most suitable.**
+**Accepts uncertainty and challenges themself to take on seemingly difficult tasks in order to grow and achieve results.**","**Takes action in accordance with** their team’s goals, the company’s values, and the organizational vision.
 
-**Takes action in accordance with** their team’s goals, the company’s values, and the organizational vision.
+**Autonomously considers how they can contribute to achieving their team or project’s goals and sets their own goals to do so.**
 
-**Autonomously considers how they can contribute to achieving their team or project’s goals and sets their own goals to do so.**","Understands **the value that** their product and **team provide to end users and actively works on their assigned tasks while considering the impact on the user experience.**
+**Proactively makes efforts** to improve their work **based on investigations and discussions.**","Understands **the value that** their product and **team provide to end users and actively works on their assigned tasks while considering the impact on the user experience.**
 
 Explains how their team’s domain **contributes to** the product **and how the product impacts the industry.**
 
 **Prioritizes and breaks down tasks as well as understand and utilize various methods to improve productivity.**
-**Examples: Reusing existing resources, using tools, automation**","**Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**
+**Examples: Reusing existing resources, using tools, automation**","**Understands and implements methods of delivering praise and constructive** feedback.
 
-**Understands and implements methods of delivering praise and constructive** feedback.
+Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**
 
-Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**","**Not only creating documentation for their team, but improves the team's documentation as needed.**
+**When making decisions, lists the pros and cons of multiple solutions based on data and facts to determine which one is the most suitable.**","**Not only creating documentation for their team, but improves the team's documentation as needed.**
 **Understands and explains the importance of sharing knowledge and information.**
 
 **Investigates risks discovered and escalates issues to senior members.**
 
-**Proactively makes efforts** to improve their work **based on investigations and discussions.**","**Selects,** learns, and applies new technical knowledge/skills relevant to their work.
+**Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**","**Selects,** learns, and applies new technical knowledge/skills relevant to their work.
 
 **Resolves bugs or issues with minimal guidance.**
 **Actively participates in** code reviews and can follow release procedures with **no guidance.**
@@ -70,17 +70,18 @@ Identifies issues within their team and thinks of and implements methods to driv
 
 Knows their team members’ capabilities and sets challenging goals for the team accordingly; balances risks, bold challenges, and results to boost their team’s performance.
 
-Fosters a blameless team culture that welcomes new challenges.","**Predicts results and formulates hypotheses** based on data and **credible evidence to lead decision-making within their team or project.**
-
-**Contributes to the achievement of team goals by proactively communicating team goals or supporting the engineers around them.**
+Fosters a blameless team culture that welcomes new challenges.","**Contributes to the achievement of team goals by proactively communicating team goals or supporting the engineers around them.**
 
 **Involves themselves in creating team/project goals and formulating technical strategies.**
 
+**Continuously makes improvements by investigating and discussing ways** to improve their **team’s** work.
+**Addresses failures or discovered issues by making improvements focused on the process, not on individual responsibilities.**
+
 [Engineering Manager Skills]
 
-Considers necessary trade-offs between requirements, timelines, and technical approaches when making decisions.
+Understands the division’s goals, the company’s values, and the organizational vision, helping to move the team toward those goals.
 
-Understands the division’s goals, the company’s values, and the organizational vision, helping to move the team toward those goals.","Understands **thoroughly how the product is being used by** end users, **contributes to the value enhancement of the product, such as works as a counterpart of the PM to decide on technical specifications.**
+Encourages failure analysis focused on the process, not on individuals.","Understands **thoroughly how the product is being used by** end users, **contributes to the value enhancement of the product, such as works as a counterpart of the PM to decide on technical specifications.**
 
 **In addition to understanding the domain knowledge of their team, has a deep understanding of how their domain interacts with related domains and the importance of their assigned domain in achieving business goals. Helps those around them deepen their understanding of domain knowledge.**
 
@@ -93,27 +94,26 @@ Knows the impact their team's work has on end users and the industry, shares the
 
 Applies their deep knowledge of quality management to implementing practices that enable their team to continuously deliver business value while maintaining or increasing quality.
 
-Defines the resources the team needs to solve issues while making sure results are appropriate to the costs.","**Turns disagreements within their team/project into constructive discussions and guides these discussions to better conclusions.**
-
-**Actively seeks feedback from those around them, utilizes** praise and constructive feedback, **and mentors new team members.**
+Defines the resources the team needs to solve issues while making sure results are appropriate to the costs.","**Actively seeks feedback from those around them, utilizes** praise and constructive feedback, **and mentors new team members.**
 
 **Makes sure that they are accountable for development and consistently earns understanding and cooperation from others.**
 **Builds trust with people both inside and outside the company, and works to gather others to join them.**
 
-[Engineering Manager Skills]
+**Predicts results and formulates hypotheses** based on data and **credible evidence to lead decision-making within their team or project.**
 
-Values different opinions and diverse ideas, and encourages everyone in their team to do the same in order to maintain high psychological safety.
+[Engineering Manager Skills]
 
 Delegates tasks to promote skill growth. Takes responsibility for onboarding new members.
 
-Connects different members and projects across teams to solve issues.","**Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
+Connects different members and projects across teams to solve issues.
+
+Considers necessary trade-offs between requirements, timelines, and technical approaches when making decisions.","**Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
 **Examples: Leverages methods such as post-incident analysis (post-mortem), pros/cons lists, decision matrices, etc.**
 
 **Takes action to reduce risk and incidents, such as by undertaking development that considers future risk, and in the event an incident occurs, contributes to the response.**
 **Examples: Considers operational processes and solutions intended to prevent problems, and creates and carries out forward-looking contingency plans within the team**
 
-**Continuously makes improvements by investigating and discussing ways** to improve their **team’s** work.
-**Addresses failures or discovered issues by making improvements focused on the process, not on individual responsibilities.**
+**Turns disagreements within their team/project into constructive discussions and guides these discussions to better conclusions.**
 
 [Engineering Manager Skills]
 
@@ -121,7 +121,7 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages everyone in the team to take ownership of their work.
 
-Encourages failure analysis focused on the process, not on individuals.","**Learns about new fields to contribute to the team in order to enhance the value of the product. Shares and teaches their knowledge and technical know-how with the engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
+Values different opinions and diverse ideas, and encourages everyone in their team to do the same in order to maintain high psychological safety.","**Learns about new fields to contribute to the team in order to enhance the value of the product. Shares and teaches their knowledge and technical know-how with the engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
 
 **Has deep knowledge of the code and uses that knowledge in actively doing** code reviews **for the team.**
 **Suggests new guidelines and ways to improve systematic debugging; resolves technical issues and bugs with large impact.**
@@ -146,19 +146,19 @@ Identifies issues **across multiple teams** and thinks of and implements methods
 
 **Collaborates with other teams to achieve goals, and boosts performance while taking into account other teams' situations.**
 
-Fosters a blameless culture that welcomes new challenges **across multiple teams.**","**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and** leads **fact-based** decision-making **in development that impacts multiple teams or the goals of the product or the division.**
-
-**Works with other teams to help achieve goals based on the organizational strategy, considering the interests of both their own team and teams around them.**
+Fosters a blameless culture that welcomes new challenges **across multiple teams.**","**Works with other teams to help achieve goals based on the organizational strategy, considering the interests of both their own team and teams around them.**
 
 **Leads consensus among development teams regarding product direction and prioritization while consulting stakeholders across multiple job types and teams.**
 
-[Engineering Manager Skills]
+**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
 
-Considers necessary trade-offs between requirements, timelines, and technical approaches.
+[Engineering Manager Skills]
 
 Understands the division’s goals, the company’s values, and the organizational vision, helping to move **multiple teams** toward those goals.
 
-**Makes long-term team goals and a roadmap to illustrate the organizational strategy.**","**Leads the value enhancement of the product by understanding the status, issues, and backlog of not only their team and ongoing development but also of surrounding teams and projects.**
+**Makes long-term team goals and a roadmap to illustrate the organizational strategy.**
+
+Encourages **multiple teams to conduct** failure analysis focused on the process, not on individuals.","**Leads the value enhancement of the product by understanding the status, issues, and backlog of not only their team and ongoing development but also of surrounding teams and projects.**
 
 **Understands thoroughly the domains of their team and related teams and leads specification design discussions that require complex domain knowledge.**
 
@@ -171,25 +171,25 @@ Knows the impact their team’s **and other team’s** work has on end users and
 
 **Balances quality and delivery across teams and implements cross-team practices** to continuously deliver business value while maintaining or increasing quality.
 
-**Makes** sure results are appropriate to the costs **for development involving multiple teams.**","**Addresses problems with solutions that consider concerns held by stakeholders of multiple teams, such as by encouraging engineers in their own team and others to have** constructive discussions.
-
-**Utilizes feedback to guide members of their own team and of other teams, encouraging those member’s growth.**
+**Makes** sure results are appropriate to the costs **for development involving multiple teams.**","**Utilizes feedback to guide members of their own team and of other teams, encouraging those member’s growth.**
 
 **Fulfills accountability in development that impacts multiple teams or the goals of the product or the division**, and earns understanding and cooperation from those around them.
 **Always focuses on building** trust with people both inside and outside the company, and works to gather **other talented individuals.**
 
-[Engineering Manager Skills]
+**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and** leads **fact-based** decision-making **in development that impacts multiple teams or the goals of the product or the division.**
 
-**Encourages members beyond their team to** value different opinions and diverse ideas; **mediates disagreements and finds an agreeable solution for each party.**
+[Engineering Manager Skills]
 
 **Mentors their team members in an open and respectful manner; goes beyond their team to improve onboarding for engineers.**
 
-Connects different members and projects across **their entire division** to solve issues.","**Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
+Connects different members and projects across **their entire division** to solve issues.
+
+Considers necessary trade-offs between requirements, timelines, and technical approaches.","**Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
 **Examples: Proposing improvements, presenting at meetings, and creating tools, documents or guidelines for their division**
 
 **Investigates risks, coordinates with the relevant teams, and takes necessary measures.** Takes action to reduce risk and incidents, **such as increasing awareness of risk management across multiple teams.**
 
-**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
+**Addresses problems with solutions that consider concerns held by stakeholders of multiple teams, such as by encouraging engineers in their own team and others to have** constructive discussions.
 
 [Engineering Manager Skills]
 
@@ -197,7 +197,7 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages **engineers across multiple teams** to take ownership of their work.
 
-Encourages **multiple teams to conduct** failure analysis focused on the process, not on individuals.","**Demonstrates advanced skills and knowledge in their field of expertise and architecture. Learns and applies new knowledge beyond their specialty field** to enhance the value of the product. **Communicates high-quality technical information and encourages those around them to do the same.**
+**Encourages members beyond their team to** value different opinions and diverse ideas; **mediates disagreements and finds an agreeable solution for each party.**","**Demonstrates advanced skills and knowledge in their field of expertise and architecture. Learns and applies new knowledge beyond their specialty field** to enhance the value of the product. **Communicates high-quality technical information and encourages those around them to do the same.**
 
 Has deep knowledge of the code and **takes responsibility for** doing code reviews for **teams or projects.**
 **Knows how to read and understand difficult coding and existing code with large impact to assist the understanding and growth of engineers across teams.**
@@ -222,17 +222,17 @@ Identifies issues **within their company** and thinks of and implements methods 
 
 **Influences the setting of challenging company goals to solve organizational issues, and accelerates the company's performance while** taking into account **the situation of the whole organization.**
 
-**Helps foster** a culture that welcomes new challenges **without fear of failure across their company.**","**Uses data and reliable facts to make decisions that positively impact the business as part of company-level development.**
-
-**Thinks about what actions their company should take in order to achieve the company’s goals and encourages teams and projects to execute them.**
+**Helps foster** a culture that welcomes new challenges **without fear of failure across their company.**","**Thinks about what actions their company should take in order to achieve the company’s goals and encourages teams and projects to execute them.**
 
 **Works to enable the cooperation of engineers in the company toward achieving goals such as by leading engineers in a way that ensures they understand and agree on the company's organizational strategy.**
 
+Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
+
 [Engineering Manager Skills]
 
-**Designs the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.**
+**Sets goals and roadmaps for their company and helps other EMs to understand the strategy and set their own goals.**
 
-**Sets goals and roadmaps for their company and helps other EMs to understand the strategy and set their own goals.**","**Participates in deciding technical policies and specifications involving the entire product and enhances the value of the product in company-level development.**
+Encourages **their entire company** to conduct failure analysis focused on the process, not on individuals.","**Participates in deciding technical policies and specifications involving the entire product and enhances the value of the product in company-level development.**
 
 **Deeply understands the product and business strategies, and actively participates in examining the interactions and roles between domains, while keeping in mind the impact on the market and the achievement of business goals.**
 
@@ -244,25 +244,25 @@ Possesses strong skills and experience **to boost productivity in the long term 
 
 **Helps other EMs with quality management across the company. Implements cross-company** practices to continuously deliver business value while maintaining or increasing quality.
 
-**In company-level development, achieves greater results by considering the balance between results and costs.**","Addresses problems **in company-level development projects** with solutions that consider stakeholder concerns, **such as by resolving conflicts between development teams in their company.**
-
-**Encourages other engineers within their company to grow through praise and constructive feedback, and acts as a role model for delivering effective feedback.**
+**In company-level development, achieves greater results by considering the balance between results and costs.**","**Encourages other engineers within their company to grow through praise and constructive feedback, and acts as a role model for delivering effective feedback.**
 
 Is accountable for **company-level development, gains** understanding and cooperation from those around them, **and builds trust.**
 **Works to gather a wide range of individuals who share belief in the company’s mission, to help create a diverse, strong company.**
 
-[Engineering Manager Skills]
+**Uses data and reliable facts to make decisions that positively impact the business as part of company-level development.**
 
-Encourages members **across** their **company** to value different opinions and diverse ideas.
+[Engineering Manager Skills]
 
 Mentors their team members **and other EMs** in an open and respectful manner; improves onboarding for engineers **on the company level.**
 
-Connects different members and projects across their entire **company** to solve issues.","**Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
+Connects different members and projects across their entire **company** to solve issues.
+
+**Designs the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.**","**Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
 **Examples: Proposes and implements best practices for the entire company and contributes to the projects and committees related to them**
 
 Investigates risks, coordinates with the relevant teams **across the company,** and takes any necessary measures. Increases awareness of risk management **within the company.**
 
-Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
+Addresses problems **in company-level development projects** with solutions that consider stakeholder concerns, **such as by resolving conflicts between development teams in their company.**
 
 [Engineering Manager Skills]
 
@@ -270,7 +270,7 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages engineers across **their company** to take ownership of their work.
 
-Encourages **their entire company** to conduct failure analysis focused on the process, not on individuals.","Demonstrates **highly-specialized technical** knowledge. **Encourages engineers across the company to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.**
+Encourages members **across** their **company** to value different opinions and diverse ideas.","Demonstrates **highly-specialized technical** knowledge. **Encourages engineers across the company to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.**
 
 **Acts as a role model for how to write code.**
 **Provides advice on solving coding issues and carrying out high-difficulty projects, or sets standards for procedures such as code reviews and systematic debugging.**
@@ -295,19 +295,19 @@ Identifies issues **involving multiple companies** and thinks of and implements 
 
 **Sets** challenging goals for the company **that are recognized even outside of the company and helps boost the group’s performance.**
 
-Helps foster a culture that welcomes new challenges without fear of failure across **the group.**","**Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
-
-**Understands the goals and strategies both inside and outside of their company and contributes to the achievement of the group's goals by encouraging organizations across companies to take action.**
+Helps foster a culture that welcomes new challenges without fear of failure across **the group.**","**Understands the goals and strategies both inside and outside of their company and contributes to the achievement of the group's goals by encouraging organizations across companies to take action.**
 
 Leads the way to ensure that **all companies** understand and agree on the **group’s** organizational strategy and works to earn the cooperation of all engineers in **the group** in working toward the **group’s** goals.
 
-[Engineering Manager Skills]
+**Leads efforts to solve issues involving multiple companies, such as by encouraging engineers in the group to focus on the process and not on individual responsibilities.**
 
-Designs **and applies** the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.
+[Engineering Manager Skills]
 
 **Understands long-term group goals and the strategies and reasoning behind them; is an opinion leader when it comes to defining goals and milestones for development across companies.**
 
-**Works with engineering leaders and comes up with major strategies for the future.**","**Decides** technical policies and specifications **for development across companies that** enhance the value of the product in **the long term, as well as leads the company to achieve business goals.**
+**Works with engineering leaders and comes up with major strategies for the future.**
+
+**Helps foster a culture of psychological safety across the group by ensuring that analysis of issues is** focused on the process and not on individuals.","**Decides** technical policies and specifications **for development across companies that** enhance the value of the product in **the long term, as well as leads the company to achieve business goals.**
 
 **Recognized by those around them as an expert in domain knowledge of not just their company, but also of other companies, and uses that knowledge to participate in creating business strategies aimed at making a significant impact in the market.**
 
@@ -319,24 +319,24 @@ Designs **and applies** the best metrics (time/cost/effort) to guide company-wid
 
 **Recognized as an expert in their field in quality management and release management.**
 
-**In development across companies**, achieves greater results by considering the balance between results and costs.","**Builds mechanisms to prevent disputes between units** such as by resolving conflicts between **companies in developments involving multiple companies.**
-
-**Fosters a culture in which engineers leverage each other's strengths to help each other grow, such as by encouraging engineers both in their company and in others to give constructive feedback.**
+**In development across companies**, achieves greater results by considering the balance between results and costs.","**Fosters a culture in which engineers leverage each other's strengths to help each other grow, such as by encouraging engineers both in their company and in others to give constructive feedback.**
 
 **Trusted by even those in other companies.**
 **Builds trust with a wide range of people both inside and outside of the company and contributes to creating a strong engineering organization through recruiting and other activities.**
 
-[Engineering Manager Skills]
+**Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
 
-Encourages **engineers across the group** to value different opinions and diverse ideas **and comes up with solutions incorporating the opinions of members within the group.**
+[Engineering Manager Skills]
 
 **Works to train new mentors across the organization and provides other EMs with opportunities to grow their career and learn new skills.**
 
-**Communicates appropriately to achieve goals in development across companies.**","Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
+**Communicates appropriately to achieve goals in development across companies.**
+
+Designs **and applies** the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.","Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
 
 **Leads risk investigation and incident response measures in development across companies and is recognized as a risk management expert within the group.**
 
-**Leads efforts to solve issues involving multiple companies, such as by encouraging engineers in the group to focus on the process and not on individual responsibilities.**
+**Builds mechanisms to prevent disputes between units** such as by resolving conflicts between **companies in developments involving multiple companies.**
 
 [Engineering Manager Skills]
 
@@ -344,7 +344,7 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages engineers across **the entire group** to take ownership of their work.
 
-**Helps foster a culture of psychological safety across the group by ensuring that analysis of issues is** focused on the process and not on individuals.","**Learns and applies new knowledge, such as expert-level technology and cutting-edge research, in order to enhance the value of the product and the development of the organization as a whole.** Encourages engineers across **the group** to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.
+Encourages **engineers across the group** to value different opinions and diverse ideas **and comes up with solutions incorporating the opinions of members within the group.**","**Learns and applies new knowledge, such as expert-level technology and cutting-edge research, in order to enhance the value of the product and the development of the organization as a whole.** Encourages engineers across **the group** to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.
 
 **Recognized by those around them as an expert in coding in certain domains.**
 Sets standards for how to do code reviews and systematic debugging and acts as an advisor on how to solve issues for coding and perform difficult releases **across companies.**

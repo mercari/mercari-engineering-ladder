@@ -1,14 +1,14 @@
 # MG4
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 **In development that impacts multiple teams or the goals of the product or the division,** thinks outside the box and creates **innovative** solutions.
 
 **In development that impacts multiple teams or the goals of the product or the division,** leads **in taking on challenging issues and** technical approaches **such as** focusing on incremental delivery.
@@ -25,22 +25,21 @@ Fosters a blameless culture that welcomes new challenges **across multiple teams
 
 
 ## Vision
-**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and** leads **fact-based** decision-making **in development that impacts multiple teams or the goals of the product or the division.**
-
 **Works with other teams to help achieve goals based on the organizational strategy, considering the interests of both their own team and teams around them.**
 
 **Leads consensus among development teams regarding product direction and prioritization while consulting stakeholders across multiple job types and teams.**
 
-### [Engineering Manager Skills]
+**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
 
-Considers necessary trade-offs between requirements, timelines, and technical approaches.
+### [Engineering Manager Skills]
 
 Understands the division’s goals, the company’s values, and the organizational vision, helping to move **multiple teams** toward those goals.
 
 **Makes long-term team goals and a roadmap to illustrate the organizational strategy.**
 
+Encourages **multiple teams to conduct** failure analysis focused on the process, not on individuals.
 
-## Priorities / Direction
+## Focus on the Mission
 **Leads the value enhancement of the product by understanding the status, issues, and backlog of not only their team and ongoing development but also of surrounding teams and projects.**
 
 **Understands thoroughly the domains of their team and related teams and leads specification design discussions that require complex domain knowledge.**
@@ -58,29 +57,28 @@ Knows the impact their team’s **and other team’s** work has on end users and
 
 
 ## Teamwork
-**Addresses problems with solutions that consider concerns held by stakeholders of multiple teams, such as by encouraging engineers in their own team and others to have** constructive discussions.
-
 **Utilizes feedback to guide members of their own team and of other teams, encouraging those member’s growth.**
 
 **Fulfills accountability in development that impacts multiple teams or the goals of the product or the division**, and earns understanding and cooperation from those around them.
 **Always focuses on building** trust with people both inside and outside the company, and works to gather **other talented individuals.**
 
-### [Engineering Manager Skills]
+**Seeks data-backed evidence through proofs of concept (POC), tests, and external research and** leads **fact-based** decision-making **in development that impacts multiple teams or the goals of the product or the division.**
 
-**Encourages members beyond their team to** value different opinions and diverse ideas; **mediates disagreements and finds an agreeable solution for each party.**
+### [Engineering Manager Skills]
 
 **Mentors their team members in an open and respectful manner; goes beyond their team to improve onboarding for engineers.**
 
 Connects different members and projects across **their entire division** to solve issues.
 
+Considers necessary trade-offs between requirements, timelines, and technical approaches.
 
-## Ownership
+## Professionalism
 **Contributes to standardization of information-sharing processes, or uses them to document and share high-impact information that is used across multiple teams or projects.**
 **Examples: Proposing improvements, presenting at meetings, and creating tools, documents or guidelines for their division**
 
 **Investigates risks, coordinates with the relevant teams, and takes necessary measures.** Takes action to reduce risk and incidents, **such as increasing awareness of risk management across multiple teams.**
 
-**Investigates and discusses** ways to improve their team **and other teams, taking the lead to implement work/process improvements & best practices in projects involving multiple teams.**
+**Addresses problems with solutions that consider concerns held by stakeholders of multiple teams, such as by encouraging engineers in their own team and others to have** constructive discussions.
 
 ### [Engineering Manager Skills]
 
@@ -88,10 +86,10 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages **engineers across multiple teams** to take ownership of their work.
 
-Encourages **multiple teams to conduct** failure analysis focused on the process, not on individuals.
+**Encourages members beyond their team to** value different opinions and diverse ideas; **mediates disagreements and finds an agreeable solution for each party.**
 
 
-## Expertise
+## Continued Learning
 **Demonstrates advanced skills and knowledge in their field of expertise and architecture. Learns and applies new knowledge beyond their specialty field** to enhance the value of the product. **Communicates high-quality technical information and encourages those around them to do the same.**
 
 Has deep knowledge of the code and **takes responsibility for** doing code reviews for **teams or projects.**

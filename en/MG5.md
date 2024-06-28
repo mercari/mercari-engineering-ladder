@@ -1,14 +1,14 @@
 # MG5
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 Creates innovative solutions **that impact the product or organization.**
 
 **Encourages everyone in their company to act without fear of risks, trying something first and having the result inform the next decision.**
@@ -25,20 +25,19 @@ Identifies issues **within their company** and thinks of and implements methods 
 
 
 ## Vision
-**Uses data and reliable facts to make decisions that positively impact the business as part of company-level development.**
-
 **Thinks about what actions their company should take in order to achieve the company’s goals and encourages teams and projects to execute them.**
 
 **Works to enable the cooperation of engineers in the company toward achieving goals such as by leading engineers in a way that ensures they understand and agree on the company's organizational strategy.**
 
-### [Engineering Manager Skills]
+Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
 
-**Designs the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.**
+### [Engineering Manager Skills]
 
 **Sets goals and roadmaps for their company and helps other EMs to understand the strategy and set their own goals.**
 
+Encourages **their entire company** to conduct failure analysis focused on the process, not on individuals.
 
-## Priorities / Direction
+## Focus on the Mission
 **Participates in deciding technical policies and specifications involving the entire product and enhances the value of the product in company-level development.**
 
 **Deeply understands the product and business strategies, and actively participates in examining the interactions and roles between domains, while keeping in mind the impact on the market and the achievement of business goals.**
@@ -55,29 +54,29 @@ Possesses strong skills and experience **to boost productivity in the long term 
 
 
 ## Teamwork
-Addresses problems **in company-level development projects** with solutions that consider stakeholder concerns, **such as by resolving conflicts between development teams in their company.**
-
 **Encourages other engineers within their company to grow through praise and constructive feedback, and acts as a role model for delivering effective feedback.**
 
 Is accountable for **company-level development, gains** understanding and cooperation from those around them, **and builds trust.**
 **Works to gather a wide range of individuals who share belief in the company’s mission, to help create a diverse, strong company.**
 
-### [Engineering Manager Skills]
+**Uses data and reliable facts to make decisions that positively impact the business as part of company-level development.**
 
-Encourages members **across** their **company** to value different opinions and diverse ideas.
+### [Engineering Manager Skills]
 
 Mentors their team members **and other EMs** in an open and respectful manner; improves onboarding for engineers **on the company level.**
 
 Connects different members and projects across their entire **company** to solve issues.
 
+**Designs the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.**
 
-## Ownership
+
+## Professionalism
 **Promotes documentation and process standardization**, information and knowledge sharing, and **fosters a culture of applying these practices across the company.**
 **Examples: Proposes and implements best practices for the entire company and contributes to the projects and committees related to them**
 
 Investigates risks, coordinates with the relevant teams **across the company,** and takes any necessary measures. Increases awareness of risk management **within the company.**
 
-Investigates and **proposes** ways to improve **development efficiency and practices at the company level; Leads the implementation of improvements & best practices across the company.**
+Addresses problems **in company-level development projects** with solutions that consider stakeholder concerns, **such as by resolving conflicts between development teams in their company.**
 
 ### [Engineering Manager Skills]
 
@@ -85,10 +84,9 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages engineers across **their company** to take ownership of their work.
 
-Encourages **their entire company** to conduct failure analysis focused on the process, not on individuals.
+Encourages members **across** their **company** to value different opinions and diverse ideas.
 
-
-## Expertise
+## Continued Learning
 Demonstrates **highly-specialized technical** knowledge. **Encourages engineers across the company to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.**
 
 **Acts as a role model for how to write code.**

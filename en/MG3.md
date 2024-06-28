@@ -1,14 +1,14 @@
 # MG3
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 Thinks outside the box and **creates** solutions **with little or no guidance.**
 
 **Goes beyond just discussions and leads technical approaches focusing on incremental delivery as necessary;**
@@ -26,20 +26,21 @@ Fosters a blameless team culture that welcomes new challenges.
 
 
 ## Vision
-**Predicts results and formulates hypotheses** based on data and **credible evidence to lead decision-making within their team or project.**
-
 **Contributes to the achievement of team goals by proactively communicating team goals or supporting the engineers around them.**
 
 **Involves themselves in creating team/project goals and formulating technical strategies.**
 
-### [Engineering Manager Skills]
+**Continuously makes improvements by investigating and discussing ways** to improve their **team’s** work.
+**Addresses failures or discovered issues by making improvements focused on the process, not on individual responsibilities.**
 
-Considers necessary trade-offs between requirements, timelines, and technical approaches when making decisions.
+### [Engineering Manager Skills]
 
 Understands the division’s goals, the company’s values, and the organizational vision, helping to move the team toward those goals.
 
+Encourages failure analysis focused on the process, not on individuals.
 
-## Priorities / Direction
+
+## Focus on the Mission
 Understands **thoroughly how the product is being used by** end users, **contributes to the value enhancement of the product, such as works as a counterpart of the PM to decide on technical specifications.**
 
 **In addition to understanding the domain knowledge of their team, has a deep understanding of how their domain interacts with related domains and the importance of their assigned domain in achieving business goals. Helps those around them deepen their understanding of domain knowledge.**
@@ -57,31 +58,31 @@ Defines the resources the team needs to solve issues while making sure results a
 
 
 ## Teamwork
-**Turns disagreements within their team/project into constructive discussions and guides these discussions to better conclusions.**
-
 **Actively seeks feedback from those around them, utilizes** praise and constructive feedback, **and mentors new team members.**
 
 **Makes sure that they are accountable for development and consistently earns understanding and cooperation from others.**
 **Builds trust with people both inside and outside the company, and works to gather others to join them.**
 
-### [Engineering Manager Skills]
+**Predicts results and formulates hypotheses** based on data and **credible evidence to lead decision-making within their team or project.**
 
-Values different opinions and diverse ideas, and encourages everyone in their team to do the same in order to maintain high psychological safety.
+### [Engineering Manager Skills]
 
 Delegates tasks to promote skill growth. Takes responsibility for onboarding new members.
 
 Connects different members and projects across teams to solve issues.
 
+Considers necessary trade-offs between requirements, timelines, and technical approaches when making decisions.
 
-## Ownership
+
+## Professionalism
 **Uses appropriate processes, methods, and tools to share relevant and useful information about their team and related projects with other members.**
 **Examples: Leverages methods such as post-incident analysis (post-mortem), pros/cons lists, decision matrices, etc.**
 
 **Takes action to reduce risk and incidents, such as by undertaking development that considers future risk, and in the event an incident occurs, contributes to the response.**
 **Examples: Considers operational processes and solutions intended to prevent problems, and creates and carries out forward-looking contingency plans within the team**
 
-**Continuously makes improvements by investigating and discussing ways** to improve their **team’s** work.
-**Addresses failures or discovered issues by making improvements focused on the process, not on individual responsibilities.**
+**Turns disagreements within their team/project into constructive discussions and guides these discussions to better conclusions.**
+
 
 ### [Engineering Manager Skills]
 
@@ -89,10 +90,10 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages everyone in the team to take ownership of their work.
 
-Encourages failure analysis focused on the process, not on individuals.
+Values different opinions and diverse ideas, and encourages everyone in their team to do the same in order to maintain high psychological safety.
 
 
-## Expertise
+## Continued Learning
 **Learns about new fields to contribute to the team in order to enhance the value of the product. Shares and teaches their knowledge and technical know-how with the engineers around them. Knows the importance of tech outreach and shares useful information inside and outside the company.**
 
 **Has deep knowledge of the code and uses that knowledge in actively doing** code reviews **for the team.**

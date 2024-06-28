@@ -1,14 +1,14 @@
 # MG6
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 **Comes up with unprecedented solutions and ideas in specific areas and innovates with new products/features.**
 
 **Promotes such behaviors as learning from mistakes and taking calculated risks without hesitation to members in and outside of their company.**
@@ -25,22 +25,22 @@ Helps foster a culture that welcomes new challenges without fear of failure acro
 
 
 ## Vision
-**Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
-
 **Understands the goals and strategies both inside and outside of their company and contributes to the achievement of the group's goals by encouraging organizations across companies to take action.**
 
 Leads the way to ensure that **all companies** understand and agree on the **group’s** organizational strategy and works to earn the cooperation of all engineers in **the group** in working toward the **group’s** goals.
 
-### [Engineering Manager Skills]
+**Leads efforts to solve issues involving multiple companies, such as by encouraging engineers in the group to focus on the process and not on individual responsibilities.**
 
-Designs **and applies** the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.
+### [Engineering Manager Skills]
 
 **Understands long-term group goals and the strategies and reasoning behind them; is an opinion leader when it comes to defining goals and milestones for development across companies.**
 
 **Works with engineering leaders and comes up with major strategies for the future.**
 
+**Helps foster a culture of psychological safety across the group by ensuring that analysis of issues is** focused on the process and not on individuals.
 
-## Priorities / Direction
+
+## Focus on the Mission
 **Decides** technical policies and specifications **for development across companies that** enhance the value of the product in **the long term, as well as leads the company to achieve business goals.**
 
 **Recognized by those around them as an expert in domain knowledge of not just their company, but also of other companies, and uses that knowledge to participate in creating business strategies aimed at making a significant impact in the market.**
@@ -57,28 +57,28 @@ Designs **and applies** the best metrics (time/cost/effort) to guide company-wid
 
 
 ## Teamwork
-**Builds mechanisms to prevent disputes between units** such as by resolving conflicts between **companies in developments involving multiple companies.**
-
 **Fosters a culture in which engineers leverage each other's strengths to help each other grow, such as by encouraging engineers both in their company and in others to give constructive feedback.**
 
 **Trusted by even those in other companies.**
 **Builds trust with a wide range of people both inside and outside of the company and contributes to creating a strong engineering organization through recruiting and other activities.**
 
-### [Engineering Manager Skills]
+**Makes decisions positively impacting the business, based on data and reliable facts, in development across companies.**
 
-Encourages **engineers across the group** to value different opinions and diverse ideas **and comes up with solutions incorporating the opinions of members within the group.**
+### [Engineering Manager Skills]
 
 **Works to train new mentors across the organization and provides other EMs with opportunities to grow their career and learn new skills.**
 
 **Communicates appropriately to achieve goals in development across companies.**
 
+Designs **and applies** the best metrics (time/cost/effort) to guide company-wide technical decisions, bringing the most value to our end users.
 
-## Ownership
+
+## Professionalism
 Promotes documentation and standardization, information and knowledge sharing, and fosters a culture of applying these practices across the **group.**
 
 **Leads risk investigation and incident response measures in development across companies and is recognized as a risk management expert within the group.**
 
-**Leads efforts to solve issues involving multiple companies, such as by encouraging engineers in the group to focus on the process and not on individual responsibilities.**
+**Builds mechanisms to prevent disputes between units** such as by resolving conflicts between **companies in developments involving multiple companies.**
 
 ### [Engineering Manager Skills]
 
@@ -86,10 +86,9 @@ Contributes to standardization of information-sharing processes and promotes kno
 
 Encourages engineers across **the entire group** to take ownership of their work.
 
-**Helps foster a culture of psychological safety across the group by ensuring that analysis of issues is** focused on the process and not on individuals.
+Encourages **engineers across the group** to value different opinions and diverse ideas **and comes up with solutions incorporating the opinions of members within the group.**
 
-
-## Expertise
+## Continued Learning
 **Learns and applies new knowledge, such as expert-level technology and cutting-edge research, in order to enhance the value of the product and the development of the organization as a whole.** Encourages engineers across **the group** to learn and apply new knowledge outside of the scope of their role, as well as to share technical information, and acts as a role model for such sharing.
 
 **Recognized by those around them as an expert in coding in certain domains.**

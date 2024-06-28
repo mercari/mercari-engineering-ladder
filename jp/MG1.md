@@ -1,14 +1,14 @@
 # MG1
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 課題に対する解決策は、常に複数存在しうることを理解し、説明できる。
 
 アイデアの実現に向けて十分なデータが集まらない時でも、概念実証（PoC）などを実施して試す方法があることを理解し、説明できる。
@@ -17,15 +17,14 @@
 
 
 ## Vision
-意思決定に必要な情報を集める方法を理解し、説明できる。
-例：ロギングデータの活用, A/Bテストを実行するコード
-
 チームの目標、会社のバリュー、組織のビジョンを理解し、説明できる。
 
 課題解決や機能開発において、目的や開発の理由を理解し、説明できる。
 
+周囲からのアドバイスを受け入れて、業務改善に活かせる。
 
-## Priorities / Direction
+
+## Focus on the Mission
 プロダクトの基本的な使い方を理解しており、担当している仕事がお客さまに提供する価値を理解し、説明できる。
 
 チームのドメイン及び会社のプロダクトが、どのように利益をあげ、どのような価値を提供しているビジネスなのかを理解し、説明できる。
@@ -35,23 +34,24 @@
 
 
 ## Teamwork
-意見やアイデアを、相手に敬意を払いながら、理解しやすく説明している。
-
 称賛やフィードバックを丁寧に行うことの有用性を理解し、説明できる。
 
 チームメンバーやマネージャーと強い信頼関係を構築するため、周りの意見に耳を傾け、他者理解に努めている。
 
+意思決定に必要な情報を集める方法を理解し、説明できる。
+例：ロギングデータの活用, A/Bテストを実行するコード
 
-## Ownership
+
+## Professionalism
 自分の業務に必要な情報を探し、活用できる。
 情報共有のために自分のチームに関連するドキュメントを作成している。
 
 セキュリティやリスクマネジメントの重要性を理解し、説明できる。
 
-周囲からのアドバイスを受け入れて、業務改善に活かせる。
+意見やアイデアを、相手に敬意を払いながら、理解しやすく説明している。
 
 
-## Expertise
+## Continued Learning
 業務に関連する技術的な知識やスキルを、周囲の手助けを得ながら学び実践している。
 例：開発言語、フレームワーク、テスト、デバッグ、可読性の高いコードの書き方など
 

@@ -1,14 +1,14 @@
 # MG1
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 Explains that there are always multiple solutions for a given problem.
 
 Explains that even when they don’t have enough data to realize an idea, they can test it by creating proofs of concept (POC) and other methods.
@@ -17,15 +17,14 @@ Takes on work outside of their comfort zone with help from those around them, ev
 
 
 ## Vision
-Understands and explains how to gather information necessary for making decisions.
-Some examples are: logging data, A/B tests.
-
 Understands and explains team goals, company values, and organizational vision.
 
 Understands and explains the purpose of problem solving or feature development, or the reason for development.
 
+Listens to suggestions from others and utilizes them to improve their work.
 
-## Priorities / Direction
+
+## Focus on the Mission
 Understands the basic usage of the product and can explain the value their work provides to end users.
 
 Explains how their team’s domain and the company’s product make a profit and provide value to users as a business.
@@ -35,23 +34,24 @@ Examples: Source control, editors, the build system, best practices for testing
 
 
 ## Teamwork
-Explains their ideas and opinions to other members in a manner that's respectful and easy to understand.
-
 Understands and explains the usefulness of delivering praise and feedback in a polite manner.
 
 Listens to others and makes their best effort to understand them, in order to build strong relationships with their teammates and manager.
 
+Understands and explains how to gather information necessary for making decisions.
+Some examples are: logging data, A/B tests.
 
-## Ownership
+
+## Professionalism
 Can find and leverage the knowledge required for their work. 
 Creates documents relevant to their team for information sharing.
 
 Explains the importance of security and risk management.
 
-Listens to suggestions from others and utilizes them to improve their work.
+Explains their ideas and opinions to other members in a manner that's respectful and easy to understand.
 
 
-## Expertise
+## Continued Learning
 Learns new technical knowledge/skills relevant to their work and applies them with help from those around them.
 Examples: Programming languages, frameworks, testing, debugging, writing readable code
 

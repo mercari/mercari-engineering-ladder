@@ -1,14 +1,14 @@
 # MG2
 ###### Mercari Engineering Career Ladder
 
- * [Bold Challenges](#bold-challenges)
+ * [Commending Bold Challenges](#commending-bold-challenges)
  * [Vision](#vision)
- * [Priorities / Direction](#priorities--direction)
+ * [Focus on the Mission](#focus-on-the-mission)
  * [Teamwork](#teamwork)
- * [Ownership](#ownership)
- * [Expertise](#expertise)
+ * [Professionalism](#professionalism)
+ * [Continued Learning](#continued-learning)
 
-## Bold Challenges
+## Commending Bold Challenges
 **Thinks outside the box and proposes solutions to technical challenges and ongoing feature development.**
 
 **Thinks of approaches to testing based on hypotheses and proposes them to their team in order to test new ideas.**
@@ -17,14 +17,14 @@
 
 
 ## Vision
-**When making decisions, lists the pros and cons of multiple solutions based on data and facts to determine which one is the most suitable.**
-
 **Takes action in accordance with** their team’s goals, the company’s values, and the organizational vision.
 
 **Autonomously considers how they can contribute to achieving their team or project’s goals and sets their own goals to do so.**
 
+**Proactively makes efforts** to improve their work **based on investigations and discussions.**
 
-## Priorities / Direction
+
+## Focus on the Mission
 Understands **the value that** their product and **team provide to end users and actively works on their assigned tasks while considering the impact on the user experience.**
 
 Explains how their team’s domain **contributes to** the product **and how the product impacts the industry.**
@@ -34,23 +34,23 @@ Explains how their team’s domain **contributes to** the product **and how the 
 
 
 ## Teamwork
-**Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**
-
 **Understands and implements methods of delivering praise and constructive** feedback.
 
 Listens to others, **pays attention to nonverbal communication, and builds** strong relationships with their teammates, manager, **and product counterparts.**
 
+**When making decisions, lists the pros and cons of multiple solutions based on data and facts to determine which one is the most suitable.**
 
-## Ownership
+
+## Professionalism
 **Not only creating documentation for their team, but improves the team's documentation as needed.**
 **Understands and explains the importance of sharing knowledge and information.**
 
 **Investigates risks discovered and escalates issues to senior members.**
 
-**Proactively makes efforts** to improve their work **based on investigations and discussions.**
+**Handles disagreements with proper consideration and respect towards the** other members **involved; is open to changing their mind.**
 
 
-## Expertise
+## Continued Learning
 **Selects,** learns, and applies new technical knowledge/skills relevant to their work.
 
 **Resolves bugs or issues with minimal guidance.**
