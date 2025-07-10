@@ -7,6 +7,7 @@
  * [Teamwork](#teamwork)
  * [Professionalism](#professionalism)
  * [Continued Learning](#continued-learning)
+ * [Move Fast for Engineers](#move-fast-for-engineers)
 
 ## Commending Bold Challenges
 Creates innovative solutions **that impact the product or organization.**
@@ -101,3 +102,18 @@ Demonstrates **highly-specialized technical** knowledge. **Encourages engineers 
 
 Learns and applies **upper-management skills**, such as **strategic planning, long-term** goal setting, **management of managers, and efficient coaching.**
 
+
+## Move Fast for Engineers
+**Contributes to the formulation of company-wide technology strategies, maximizing product development speed and quality.**
+
+**Contributes to building highly productive development processes across the company in order to improve development efficiency, such as by establishing company-wide common platform strategies.**
+
+**Contributes to making swift technical decisions based on data and reliable facts for a positive business impact across the company.**
+
+### [Engineering Manager Skills]
+
+**Drives initiatives to promote measures to achieve efficient development across the company.**
+
+**Contributes to organizational development for continuously improving productivity across the company.**
+
+**Establishes strategic decision-making mechanisms involving the entire company. Can set optimal metrics (time, cost, effort) to guide company-wide technical decisions to deliver maximum value to customers.**

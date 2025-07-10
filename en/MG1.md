@@ -7,6 +7,8 @@
  * [Teamwork](#teamwork)
  * [Professionalism](#professionalism)
  * [Continued Learning](#continued-learning)
+ * [Move Fast for Engineers](#move-fast-for-engineers)
+
 
 ## Commending Bold Challenges
 Explains that there are always multiple solutions for a given problem.
@@ -59,3 +61,14 @@ Writes code with help from those around them, following their team’s guideline
 Understands other members’ code reviews and can follow release procedures with some guidance.
 
 Knows the basics of the programming languages, frameworks, libraries, and domain of their platform and, with help from those around them, designs minor functions taking into account interface compatibility and scalability.
+
+
+## Move Fast for Engineers
+Understands the importance of simple implementation for efficient product development. 
+
+Completes defined small-scale engineering tasks within a reasonable timeframe, utilizing methods to improve productivity with the help of others. 
+Examples: source control, editors, build systems, testing methods, utilizing team rules and best practices. 
+
+Understands how to gather information necessary for decision-making and can propose technical judgments for their assigned development tasks to their mentor.
+Examples: using logging data, and code to execute A/B tests. Gathers necessary information and shares it with team members at the appropriate time to avoid major bottlenecks.
+

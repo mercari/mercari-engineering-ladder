@@ -7,6 +7,7 @@
  * [Teamwork](#teamwork)
  * [Professionalism](#professionalism)
  * [Continued Learning](#continued-learning)
+ * [Move Fast for Engineers](#move-fast-for-engineers)
 
 ## Commending Bold Challenges
 **Thinks outside the box and proposes solutions to technical challenges and ongoing feature development.**
@@ -57,3 +58,12 @@ Listens to others, **pays attention to nonverbal communication, and builds** str
 **Actively participates in** code reviews and can follow release procedures with **no guidance.**
 
 Knows the programming languages, frameworks, libraries, and domain of their platform and develops minor functions **on their own.**
+
+## Move Fast for Engineers
+**Takes the initiative to propose efficient development methods, such as making reasonable implementations by developing features in increments with an understanding of the MVP concept.**
+
+**Understands and implements techniques for productivity, and helps improve it by sharing issues and proposals regarding code quality and development processes.**
+**Examples: resource reuse, tool utilization, and automation.**
+
+**Makes optimal technical decisions swiftly within their assigned development tasks by comparing the advantages and disadvantages of solutions based on data and facts.**
+

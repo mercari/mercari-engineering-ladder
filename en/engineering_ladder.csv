@@ -1,4 +1,4 @@
-"",Commending Bold Challenges,Vision,Focus on the Mission,Teamwork,Professionalism,Continued Learning
+"",Commending Bold Challenges,Vision,Focus on the Mission,Teamwork,Professionalism,Continued Learning,Move Fast for Engineers
 MG1,"Explains that there are always multiple solutions for a given problem.
 
 Explains that even when they don’t have enough data to realize an idea, they can test it by creating proofs of concept (POC) and other methods.
@@ -28,7 +28,13 @@ Examples: Programming languages, frameworks, testing, debugging, writing readabl
 Writes code with help from those around them, following their team’s guidelines while paying attention to the organization of the code, testability, readability, edge cases, and errors.
 Understands other members’ code reviews and can follow release procedures with some guidance.
 
-Knows the basics of the programming languages, frameworks, libraries, and domain of their platform and, with help from those around them, designs minor functions taking into account interface compatibility and scalability."
+Knows the basics of the programming languages, frameworks, libraries, and domain of their platform and, with help from those around them, designs minor functions taking into account interface compatibility and scalability.","Understands the importance of simple implementation for efficient product development. 
+
+Completes defined small-scale engineering tasks within a reasonable timeframe, utilizing methods to improve productivity with the help of others. 
+Examples: source control, editors, build systems, testing methods, utilizing team rules and best practices. 
+
+Understands how to gather information necessary for decision-making and can propose technical judgments for their assigned development tasks to their mentor.
+Examples: using logging data, and code to execute A/B tests. Gathers necessary information and shares it with team members at the appropriate time to avoid major bottlenecks."
 MG2,"**Thinks outside the box and proposes solutions to technical challenges and ongoing feature development.**
 
 **Thinks of approaches to testing based on hypotheses and proposes them to their team in order to test new ideas.**
@@ -56,7 +62,12 @@ Listens to others, **pays attention to nonverbal communication, and builds** str
 **Resolves bugs or issues with minimal guidance.**
 **Actively participates in** code reviews and can follow release procedures with **no guidance.**
 
-Knows the programming languages, frameworks, libraries, and domain of their platform and develops minor functions **on their own.**"
+Knows the programming languages, frameworks, libraries, and domain of their platform and develops minor functions **on their own.**","**Takes the initiative to propose efficient development methods, such as making reasonable implementations by developing features in increments with an understanding of the MVP concept.**
+
+**Understands and implements techniques for productivity, and helps improve it by sharing issues and proposals regarding code quality and development processes.**
+**Examples: resource reuse, tool utilization, and automation.**
+
+**Makes optimal technical decisions swiftly within their assigned development tasks by comparing the advantages and disadvantages of solutions based on data and facts.**"
 MG3,"Thinks outside the box and **creates** solutions **with little or no guidance.**
 
 **Goes beyond just discussions and leads technical approaches focusing on incremental delivery as necessary;**
@@ -133,7 +144,20 @@ Values different opinions and diverse ideas, and encourages everyone in their te
 
 Encourages members to create personal growth OKRs and makes sure the team workload allows members to use some time for self-improvement (study groups, conferences, reading, etc.).
 
-Learns and applies management skills such as communication skills, goal setting, and one-on-one/performance review frameworks."
+Learns and applies management skills such as communication skills, goal setting, and one-on-one/performance review frameworks.","**Develops efficient implementation strategies and designs for complex features to rapidly develop high-quality products.**
+
+**Works to improve code quality and eliminate technical debt, thereby implementing highly productive development processes. Contributes to improving the entire team's development productivity by sharing skills and experience.**
+**Examples: performance optimization and appropriate memory management, suggestions for improving development processes and tools.**
+
+**Makes or supports swift technical decisions within the team or related projects without getting bogged down in endless consensus-building based on data and reliable evidence while predicting results and hypotheses.**
+
+[Engineering Manager Skills]
+
+Makes appropriate assignments swiftly and increases development speed.
+
+Improves the team's development productivity by optimizing development processes and promoting member growth. 
+
+Supports members so that decision-making within the team proceeds smoothly. Makes swift decisions based on trade-offs between requirements, schedules, and technical approaches."
 MG4,"**In development that impacts multiple teams or the goals of the product or the division,** thinks outside the box and creates **innovative** solutions.
 
 **In development that impacts multiple teams or the goals of the product or the division,** leads **in taking on challenging issues and** technical approaches **such as** focusing on incremental delivery.
@@ -209,7 +233,21 @@ Has deep knowledge of **and experience using** programming languages, frameworks
 
 Encourages members to create personal growth OKRs and makes sure the team workload allows members to use some time for self-improvement (study groups, conferences, reading, etc.).
 
-Learns and applies **high-level** management skills such as **inclusive** communication skills **for diverse teams,** goal setting **according to each member's level**, and **effective** one-on-one/performance review frameworks."
+Learns and applies **high-level** management skills such as **inclusive** communication skills **for diverse teams,** goal setting **according to each member's level**, and **effective** one-on-one/performance review frameworks.","**Plans and implements measures to increase speed and quality in development affecting the goals of multiple teams, products, or divisions.**
+
+Works to improve code quality and eliminate technical debt, thereby **establishing** highly productive development processes **in their division or across teams.** Contributes to improving the **division's** development productivity by sharing skills and experience. 
+**Examples: iterative/autonomous development, scalable development, and experience in infrastructure domains.**
+
+**Leads technical decision-making in development that impacts multiple teams, products, or divisions, and makes decisions swiftly** without getting bogged down in endless consensus-building. **Gathers data-backed evidence through proofs of concept (PoCs), testing, and external research to enable fact-based decisions.**
+
+[Engineering Manager Skills]
+
+**Improves collaboration among multiple teams** and increases development speed.
+
+Improves development productivity **in multiple teams or projects** by optimizing development processes and fostering member growth. 
+
+**Adapts efficient and consistent decision-making processes across teams and projects to improve the speed and quality of decisions.**
+Makes swift decisions based on trade-offs between requirements, schedules, and technical approaches."
 MG5,"Creates innovative solutions **that impact the product or organization.**
 
 **Encourages everyone in their company to act without fear of risks, trying something first and having the result inform the next decision.**
@@ -282,7 +320,19 @@ Encourages members **across** their **company** to value different opinions and 
 
 **Strategically manages stakeholders and deadlines to ensure** time for self-improvement **for engineers across the company, thereby fostering a culture of learning.**
 
-Learns and applies **upper-management skills**, such as **strategic planning, long-term** goal setting, **management of managers, and efficient coaching.**"
+Learns and applies **upper-management skills**, such as **strategic planning, long-term** goal setting, **management of managers, and efficient coaching.**","**Contributes to the formulation of company-wide technology strategies, maximizing product development speed and quality.**
+
+**Contributes to building highly productive development processes across the company in order to improve development efficiency, such as by establishing company-wide common platform strategies.**
+
+**Contributes to making swift technical decisions based on data and reliable facts for a positive business impact across the company.**
+
+[Engineering Manager Skills]
+
+**Drives initiatives to promote measures to achieve efficient development across the company.**
+
+**Contributes to organizational development for continuously improving productivity across the company.**
+
+**Establishes strategic decision-making mechanisms involving the entire company. Can set optimal metrics (time, cost, effort) to guide company-wide technical decisions to deliver maximum value to customers.**"
 MG6,"**Comes up with unprecedented solutions and ideas in specific areas and innovates with new products/features.**
 
 **Promotes such behaviors as learning from mistakes and taking calculated risks without hesitation to members in and outside of their company.**
@@ -358,4 +408,16 @@ Leads design **and improvements** for development **across companies with their 
 
 Learns and applies **executive-level** management skills, such as **long-term vision setting,** strategic planning, long-term goal setting, management of managers, and coaching.
 
-**Shows strong leadership, inspiring engineers both inside and outside the company to challenge themselves and grow.**"
+**Shows strong leadership, inspiring engineers both inside and outside the company to challenge themselves and grow.**","Contributes to the formulation of a **group-wide** technology strategy, maximizing the speed and quality of product development. 
+
+Contributes to the **group's sustained productivity improvement,** such as by establishing **a group-wide** common platform strategy, **and this contribution is recognized by engineers both inside and outside the company.**
+
+**Makes swift decisions** based on data and reliable facts to positively impact the business **in development across multiple companies and for the entire group.**
+
+[Engineering Manager Skills]
+
+Drives initiatives to promote measures to achieve efficient development across the **group.**
+
+Contributes **to building an organization that** continuously improves productivity across the **group.**
+
+Establishes mechanisms for strategic decision-making involving the entire **group. Sets and utilizes** optimal metrics (time, cost, and effort) to guide group-wide technical decisions that deliver maximum value to our customers."

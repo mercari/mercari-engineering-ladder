@@ -7,6 +7,7 @@
  * [Teamwork](#teamwork)
  * [Professionalism](#professionalism)
  * [Continued Learning](#continued-learning)
+ * [Move Fast for Engineers](#move-fast-for-engineers)
 
 ## Commending Bold Challenges
 **In development that impacts multiple teams or the goals of the product or the division,** thinks outside the box and creates **innovative** solutions.
@@ -103,3 +104,21 @@ Has deep knowledge of **and experience using** programming languages, frameworks
 Encourages members to create personal growth OKRs and makes sure the team workload allows members to use some time for self-improvement (study groups, conferences, reading, etc.).
 
 Learns and applies **high-level** management skills such as **inclusive** communication skills **for diverse teams,** goal setting **according to each member's level**, and **effective** one-on-one/performance review frameworks.
+
+
+## Move Fast for Engineers
+**Plans and implements measures to increase speed and quality in development affecting the goals of multiple teams, products, or divisions.**
+
+Works to improve code quality and eliminate technical debt, thereby **establishing** highly productive development processes **in their division or across teams.** Contributes to improving the **division's** development productivity by sharing skills and experience. 
+**Examples: iterative/autonomous development, scalable development, and experience in infrastructure domains.**
+
+**Leads technical decision-making in development that impacts multiple teams, products, or divisions, and makes decisions swiftly** without getting bogged down in endless consensus-building. **Gathers data-backed evidence through proofs of concept (PoCs), testing, and external research to enable fact-based decisions.**
+
+### [Engineering Manager Skills]
+
+**Improves collaboration among multiple teams** and increases development speed.
+
+Improves development productivity **in multiple teams or projects** by optimizing development processes and fostering member growth. 
+
+**Adapts efficient and consistent decision-making processes across teams and projects to improve the speed and quality of decisions.**
+Makes swift decisions based on trade-offs between requirements, schedules, and technical approaches.

@@ -7,6 +7,7 @@
  * [Teamwork](#teamwork)
  * [Professionalism](#professionalism)
  * [Continued Learning](#continued-learning)
+ * [Move Fast for Engineers](#move-fast-for-engineers)
 
 ## Commending Bold Challenges
 Thinks outside the box and **creates** solutions **with little or no guidance.**
@@ -108,3 +109,19 @@ Encourages members to create personal growth OKRs and makes sure the team worklo
 
 Learns and applies management skills such as communication skills, goal setting, and one-on-one/performance review frameworks.
 
+
+## Move Fast for Engineers
+**Develops efficient implementation strategies and designs for complex features to rapidly develop high-quality products.**
+
+**Works to improve code quality and eliminate technical debt, thereby implementing highly productive development processes. Contributes to improving the entire team's development productivity by sharing skills and experience.**
+**Examples: performance optimization and appropriate memory management, suggestions for improving development processes and tools.**
+
+**Makes or supports swift technical decisions within the team or related projects without getting bogged down in endless consensus-building based on data and reliable evidence while predicting results and hypotheses.**
+
+### [Engineering Manager Skills]
+
+Makes appropriate assignments swiftly and increases development speed.
+
+Improves the team's development productivity by optimizing development processes and promoting member growth. 
+
+Supports members so that decision-making within the team proceeds smoothly. Makes swift decisions based on trade-offs between requirements, schedules, and technical approaches.
